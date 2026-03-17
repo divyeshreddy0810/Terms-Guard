@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TermsGuard AI</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { width: 450px; max-height: 700px; font-family: 'Segoe UI', sans-serif; padding: 15px; background: #f5f5f5; font-size: 13px; overflow-y: auto; }
+    h3 { color: #2c3e50; margin-bottom: 15px; text-align: center; font-size: 18px; }
+    button { width: 100%; padding: 12px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; border-radius: 8px; cursor: pointer; font-weight: 600; font-size: 14px; margin-bottom: 8px; }
+    button:hover { transform: scale(1.01); }
+    #status { font-size: 12px; color: #666; margin: 10px 0; text-align: center; padding: 8px; background: white; border-radius: 6px; min-height: 18px; }
+    .section { margin-top: 12px; background: white; padding: 12px; border-radius: 8px; border-left: 4px solid; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+    .ethical-section { border-left-color: #28a745; }
+    .non-ethical-section { border-left-color: #dc3545; }
+    .section-title { font-weight: 700; font-size: 14px; margin-bottom: 8px; }
+    .ethical-title { color: #28a745; }
+    .non-ethical-title { color: #dc3545; }
+    ul { margin: 0; padding-left: 20px; max-height: 120px; overflow-y: auto; }
+    li { margin-bottom: 6px; line-height: 1.5; color: #333; word-break: break-word; }
+    .risk-badge { display: inline-block; padding: 4px 10px; border-radius: 12px; color: white; font-size: 11px; font-weight: 700; margin-left: 10px; }
+    .risk-high { background: #dc3545; }
+    .risk-medium { background: #ffc107; color: #000; }
+    .risk-low { background: #28a745; }
+    #results { display: none; }
+    .count-badge { background: #eee; padding: 2px 8px; border-radius: 10px; font-size: 11px; margin-left: 8px; font-weight: 600; }
+    a { color: #667eea; text-decoration: none; word-break: break-all; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <h3>🛡️ TermsGuard AI <span id="riskBadge" class="risk-badge" style="display:none;"></span></h3>
+  <button id="analyzeBtn">Analyze This Page</button>
+  <button id="clearHighlightsBtn" style="background: linear-gradient(135deg, #999 0%, #666 100%);">Clear Highlights</button>
+  <div id="status"></div>
+  
+  <div id="results">
+    <div class="section ethical-section">
+      <div class="section-title ethical-title">✅ Ethical Points <span id="ethicalCount" class="count-badge">0</span></div>
+      <ul id="ethicalList"></ul>
+    </div>
+    <div class="section non-ethical-section">
+      <div class="section-title non-ethical-title">⚠️ Non-Ethical Points <span id="nonEthicalCount" class="count-badge">0</span></div>
+      <ul id="nonEthicalList"></ul>
+    </div>
+    <div id="linksSection" class="section" style="border-left-color: #667eea; display: none;">
+      <div class="section-title" style="color: #667eea;">🔗 Links in Document <span id="linksCount" class="count-badge">0</span></div>
+      <ul id="linksList"></ul>
+    </div>
+  </div>
+  
+  <script src="popup.js"></script>
+</body>
+</html>
