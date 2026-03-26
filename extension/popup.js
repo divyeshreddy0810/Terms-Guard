@@ -8,7 +8,7 @@ document.getElementById('analyzeBtn').addEventListener('click', () => {
   const nonEthicalCount = document.getElementById('nonEthicalCount');
   
   const startTime = Date.now();
-  status.innerText = "⚡ Analyzing full page (up to 2,000,000+ words)... (Expected: 10-20 seconds)";
+  status.innerText = "Analyzing full page (up to 2,00,000+ words)... (Expected: 5-10 seconds)";
   results.style.display = "none";
   ethicalList.innerHTML = "";
   nonEthicalList.innerHTML = "";
