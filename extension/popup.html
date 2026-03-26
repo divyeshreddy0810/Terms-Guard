@@ -18,6 +18,7 @@
     .ethical-title { color: #28a745; }
     .non-ethical-title { color: #dc3545; }
     ul { margin: 0; padding-left: 20px; max-height: 120px; overflow-y: auto; }
+    #ethicalList, #nonEthicalList { max-height: 400px; }
     li { margin-bottom: 6px; line-height: 1.5; color: #333; word-break: break-word; }
     .risk-badge { display: inline-block; padding: 4px 10px; border-radius: 12px; color: white; font-size: 11px; font-weight: 700; margin-left: 10px; }
     .risk-high { background: #dc3545; }
@@ -30,22 +31,22 @@
   </style>
 </head>
 <body>
-  <h3>🛡️ TermsGuard AI <span id="riskBadge" class="risk-badge" style="display:none;"></span></h3>
+  <h3>TermsGuard AI <span id="riskBadge" class="risk-badge" style="display:none;"></span></h3>
   <button id="analyzeBtn">Analyze This Page</button>
   <button id="clearHighlightsBtn" style="background: linear-gradient(135deg, #999 0%, #666 100%);">Clear Highlights</button>
   <div id="status"></div>
   
   <div id="results">
     <div class="section ethical-section">
-      <div class="section-title ethical-title">✅ Ethical Points <span id="ethicalCount" class="count-badge">0</span></div>
+      <div class="section-title ethical-title">Ethical Points <span id="ethicalCount" class="count-badge">0</span></div>
       <ul id="ethicalList"></ul>
     </div>
     <div class="section non-ethical-section">
-      <div class="section-title non-ethical-title">⚠️ Non-Ethical Points <span id="nonEthicalCount" class="count-badge">0</span></div>
+      <div class="section-title non-ethical-title">Non-Ethical Points <span id="nonEthicalCount" class="count-badge">0</span></div>
       <ul id="nonEthicalList"></ul>
     </div>
     <div id="linksSection" class="section" style="border-left-color: #667eea; display: none;">
-      <div class="section-title" style="color: #667eea;">🔗 Links in Document <span id="linksCount" class="count-badge">0</span></div>
+      <div class="section-title" style="color: #667eea;">Links Mentioned in Document <span id="linksCount" class="count-badge">0</span></div>
       <ul id="linksList"></ul>
     </div>
   </div>
