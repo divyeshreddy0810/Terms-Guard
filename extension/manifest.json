@@ -3,7 +3,7 @@
   "name": "TermsGuard AI",
   "version": "1.0",
   "description": "Real-time T&C ethical analysis using RAG and LLM",
-  "permissions": ["activeTab", "scripting"],
+  "permissions": ["activeTab", "scripting", "storage"],
   "host_permissions": ["<all_urls>"],
   "action": {
     "default_popup": "popup.html",

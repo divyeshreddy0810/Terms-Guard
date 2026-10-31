@@ -1,7 +1,9 @@
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
   if (request.action === "getText") {
-    // Extract full page text (up to 10,000,000 chars ≈ 1.6-2 million words)
-    const text = document.body.innerText;
+    // Prefer the document's main content: document.body.innerText starts with the
+    // nav bar and menus, which is what the backend would otherwise analyse first.
+    const main = document.querySelector('main, article, [role="main"], #content, .main-content');
+    const text = (main || document.body).innerText;
     
     // Extract all links
     const links = [];
@@ -33,8 +35,7 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
 function highlightAnalyzedText(highlights) {
   const colors = {
     ethical: { bg: '#d4edda', border: '#28a745' },
-    non_ethical: { bg: '#f8d7da', border: '#dc3545' },
-    unclear: { bg: '#fff3cd', border: '#ffc107' }
+    non_ethical: { bg: '#f8d7da', border: '#dc3545' }
   };
   
   // Create a replacer function to highlight text directly
@@ -44,33 +45,34 @@ function highlightAnalyzedText(highlights) {
     
     const color = colors[type];
     const safeText = text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-    const regex = new RegExp(`(${safeText})`, 'gi');
-    
+    // No 'g' flag: a global regex's test() keeps lastIndex between nodes and skips matches
+    const matcher = new RegExp(safeText, 'i');
+    const splitter = new RegExp(`(${safeText})`, 'gi');
+
     // Highlight in body by traversing all text nodes
     const walker = document.createTreeWalker(
       document.body,
       NodeFilter.SHOW_TEXT,
-      null,
+      // Skip non-rendered text (inline JSON in <script> often repeats the page text)
+      { acceptNode: n => /^(SCRIPT|STYLE|NOSCRIPT|TEXTAREA)$/.test(n.parentNode.nodeName) ? NodeFilter.FILTER_REJECT : NodeFilter.FILTER_ACCEPT },
       false
     );
-    
+
     let node;
     const nodesToReplace = [];
-    
+
     while (node = walker.nextNode()) {
-      if (regex.test(node.textContent)) {
+      if (matcher.test(node.textContent)) {
         nodesToReplace.push(node);
       }
     }
-    
+
     nodesToReplace.forEach(node => {
       const span = document.createElement('span');
-      const textContent = node.textContent;
-      const regex2 = new RegExp(`(${safeText})`, 'gi');
-      
-      const parts = textContent.split(regex2);
-      parts.forEach(part => {
-        if (part && regex2.test(part)) {
+
+      // split() with a capture group puts the matches at odd indices
+      node.textContent.split(splitter).forEach((part, i) => {
+        if (part && i % 2 === 1) {
           const highlightSpan = document.createElement('span');
           highlightSpan.className = 'analyzed-text-highlight';
           highlightSpan.setAttribute('data-type', type);
@@ -82,7 +84,6 @@ function highlightAnalyzedText(highlights) {
           highlightSpan.title = `${type.charAt(0).toUpperCase() + type.slice(1)} clause`;
           highlightSpan.textContent = part;
           span.appendChild(highlightSpan);
-          regex2.lastIndex = 0;
         } else if (part) {
           span.appendChild(document.createTextNode(part));
         }
