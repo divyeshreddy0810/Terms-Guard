@@ -1,0 +1,2164 @@
+{
+ "clauses_explained": 40,
+ "samples_per_clause": 400,
+ "per_clause": [
+  {
+   "text": "academia.edu reserves the right , at its sole discretion , to modify the site , services and these terms , at any time and without prior notice .",
+   "categories": [
+    "Unilateral change"
+   ],
+   "unfair_probability": 0.86,
+   "tokens": [
+    [
+     "modify",
+     0.1857
+    ],
+    [
+     "any",
+     0.1686
+    ],
+    [
+     "time",
+     0.1555
+    ],
+    [
+     "discretion",
+     0.1437
+    ],
+    [
+     "prior",
+     0.1332
+    ],
+    [
+     "at",
+     0.1234
+    ],
+    [
+     "to",
+     0.1041
+    ],
+    [
+     "without",
+     0.098
+    ]
+   ]
+  },
+  {
+   "text": "by continuing to access or use the site or services after we have posted a modification on the site or have provided you with notice of a modification , you are indicating that you agree to be bound by the modified terms .",
+   "categories": [
+    "Contract by using"
+   ],
+   "unfair_probability": 0.742,
+   "tokens": [
+    [
+     "agree",
+     0.1077
+    ],
+    [
+     "bound",
+     0.088
+    ],
+    [
+     "terms",
+     0.0838
+    ],
+    [
+     "be",
+     0.0736
+    ],
+    [
+     "to",
+     0.0732
+    ],
+    [
+     "to",
+     0.0659
+    ],
+    [
+     "by",
+     0.0647
+    ],
+    [
+     "you",
+     0.0596
+    ]
+   ]
+  },
+  {
+   "text": "academia.edu reserves the right to suspend or terminate your account if any information provided during the registration process or thereafter proves to be inaccurate , not current or incomplete .",
+   "categories": [
+    "Unilateral termination"
+   ],
+   "unfair_probability": 0.842,
+   "tokens": [
+    [
+     "terminate",
+     0.194
+    ],
+    [
+     "suspend",
+     0.1884
+    ],
+    [
+     "or",
+     0.1538
+    ],
+    [
+     "to",
+     0.1376
+    ],
+    [
+     "right",
+     0.127
+    ],
+    [
+     "reserves",
+     0.1172
+    ],
+    [
+     "the",
+     0.1159
+    ],
+    [
+     "academia",
+     0.0798
+    ]
+   ]
+  },
+  {
+   "text": "we reserve the right to modify or terminate free trials at any time , without notice and in our sole discretion .",
+   "categories": [
+    "Unilateral termination"
+   ],
+   "unfair_probability": 0.833,
+   "tokens": [
+    [
+     "terminate",
+     0.2092
+    ],
+    [
+     "right",
+     0.1567
+    ],
+    [
+     "modify",
+     0.1517
+    ],
+    [
+     "any",
+     0.15
+    ],
+    [
+     "or",
+     0.1458
+    ],
+    [
+     "reserve",
+     0.1269
+    ],
+    [
+     "time",
+     0.1197
+    ],
+    [
+     "notice",
+     0.0965
+    ]
+   ]
+  },
+  {
+   "text": "it is academia.edu 's policy to terminate , in appropriate circumstances , members or other account holders who repeatedly infringe or are believed to be repeatedly infringing the rights of copyright holders .",
+   "categories": [
+    "Unilateral termination"
+   ],
+   "unfair_probability": 0.723,
+   "tokens": [
+    [
+     "terminate",
+     0.1989
+    ],
+    [
+     "to",
+     0.1374
+    ],
+    [
+     "circumstances",
+     0.0999
+    ],
+    [
+     "in",
+     0.0785
+    ],
+    [
+     "holders",
+     0.075
+    ],
+    [
+     "policy",
+     0.0687
+    ],
+    [
+     "or",
+     0.0677
+    ],
+    [
+     "or",
+     0.0556
+    ]
+   ]
+  },
+  {
+   "text": "academia.edu reserves the right , at its sole discretion , to discontinue or terminate the site and services and to terminate these terms , at any time and without prior notice .",
+   "categories": [
+    "Unilateral termination"
+   ],
+   "unfair_probability": 0.861,
+   "tokens": [
+    [
+     "or",
+     0.1747
+    ],
+    [
+     "terminate",
+     0.1564
+    ],
+    [
+     "discretion",
+     0.1496
+    ],
+    [
+     "discontinue",
+     0.1397
+    ],
+    [
+     "terminate",
+     0.1323
+    ],
+    [
+     "to",
+     0.1302
+    ],
+    [
+     "time",
+     0.1218
+    ],
+    [
+     "the",
+     0.1175
+    ]
+   ]
+  },
+  {
+   "text": "if you breach any of these terms , academia.edu will have the right to suspend or disable your account or terminate these terms , at its sole discretion and without prior notice to you .",
+   "categories": [
+    "Unilateral termination"
+   ],
+   "unfair_probability": 0.844,
+   "tokens": [
+    [
+     "suspend",
+     0.2239
+    ],
+    [
+     "terminate",
+     0.1725
+    ],
+    [
+     "or",
+     0.1448
+    ],
+    [
+     "disable",
+     0.141
+    ],
+    [
+     "discretion",
+     0.124
+    ],
+    [
+     "to",
+     0.1192
+    ],
+    [
+     "any",
+     0.1107
+    ],
+    [
+     "your",
+     0.0872
+    ]
+   ]
+  },
+  {
+   "text": "academia.edu reserves the right to revoke your access to and use of the site , services and collective content at any time , with or without cause .",
+   "categories": [
+    "Unilateral termination"
+   ],
+   "unfair_probability": 0.604,
+   "tokens": [
+    [
+     "revoke",
+     0.084
+    ],
+    [
+     "to",
+     0.0811
+    ],
+    [
+     "time",
+     0.0587
+    ],
+    [
+     "services",
+     0.0539
+    ],
+    [
+     "or",
+     0.0502
+    ],
+    [
+     "access",
+     0.0455
+    ],
+    [
+     "any",
+     0.0452
+    ],
+    [
+     "without",
+     0.0395
+    ]
+   ]
+  },
+  {
+   "text": "these terms and any action related thereto will be governed by the laws of the state of california without regard to its conflict of laws provisions .",
+   "categories": [
+    "Choice of law"
+   ],
+   "unfair_probability": 0.873,
+   "tokens": [
+    [
+     "conflict",
+     0.2128
+    ],
+    [
+     "laws",
+     0.2078
+    ],
+    [
+     "governed",
+     0.2062
+    ],
+    [
+     "laws",
+     0.156
+    ],
+    [
+     "without",
+     0.144
+    ],
+    [
+     "of",
+     0.1291
+    ],
+    [
+     "of",
+     0.1226
+    ],
+    [
+     "by",
+     0.1208
+    ]
+   ]
+  },
+  {
+   "text": "amazon reserves the right to refuse service , terminate accounts , terminate your rights to use amazon services , remove or edit content , or cancel orders in its sole discretion .",
+   "categories": [
+    "Content removal",
+    "Unilateral termination"
+   ],
+   "unfair_probability": 0.763,
+   "tokens": [
+    [
+     "terminate",
+     0.179
+    ],
+    [
+     "refuse",
+     0.1234
+    ],
+    [
+     "right",
+     0.1201
+    ],
+    [
+     "reserves",
+     0.1067
+    ],
+    [
+     "discretion",
+     0.1015
+    ],
+    [
+     "to",
+     0.0887
+    ],
+    [
+     "accounts",
+     0.0829
+    ],
+    [
+     "the",
+     0.0688
+    ]
+   ]
+  },
+  {
+   "text": "amazon takes no responsibility and assumes no liability for any content posted by you or any third party .",
+   "categories": [
+    "Limitation of liability"
+   ],
+   "unfair_probability": 0.665,
+   "tokens": [
+    [
+     "liability",
+     0.2316
+    ],
+    [
+     "for",
+     0.1638
+    ],
+    [
+     "no",
+     0.091
+    ],
+    [
+     "any",
+     0.0909
+    ],
+    [
+     "third",
+     0.0624
+    ],
+    [
+     "any",
+     0.0608
+    ],
+    [
+     "responsibility",
+     0.0522
+    ],
+    [
+     "no",
+     0.0369
+    ]
+   ]
+  },
+  {
+   "text": "by using any amazon service , you agree that the federal arbitration act , applicable federal law , and the laws of the state of washington , without regard to principles of conflict of laws , will govern these conditions of use and any dispute of any sort that might arise between you and amazon .",
+   "categories": [
+    "Choice of law",
+    "Contract by using"
+   ],
+   "unfair_probability": 0.839,
+   "tokens": [
+    [
+     "conflict",
+     0.1775
+    ],
+    [
+     "by",
+     0.1355
+    ],
+    [
+     "laws",
+     0.1347
+    ],
+    [
+     "act",
+     0.1212
+    ],
+    [
+     "conditions",
+     0.1062
+    ],
+    [
+     "without",
+     0.1035
+    ],
+    [
+     "and",
+     0.0826
+    ],
+    [
+     "of",
+     0.0803
+    ]
+   ]
+  },
+  {
+   "text": "we reserve the right to make changes to our site , policies , service terms , and these conditions of use at any time .",
+   "categories": [
+    "Unilateral change"
+   ],
+   "unfair_probability": 0.817,
+   "tokens": [
+    [
+     "changes",
+     0.1703
+    ],
+    [
+     "any",
+     0.1409
+    ],
+    [
+     "right",
+     0.1169
+    ],
+    [
+     "make",
+     0.1047
+    ],
+    [
+     "time",
+     0.1011
+    ],
+    [
+     "to",
+     0.0897
+    ],
+    [
+     "the",
+     0.0892
+    ],
+    [
+     "to",
+     0.0853
+    ]
+   ]
+  },
+  {
+   "text": "we may change our service plans and the price of our service from time to time ; however , any price changes or changes to our service plans will apply to you no earlier than 30 days following notice to you .",
+   "categories": [
+    "Unilateral change"
+   ],
+   "unfair_probability": 0.872,
+   "tokens": [
+    [
+     "change",
+     0.2064
+    ],
+    [
+     "may",
+     0.1699
+    ],
+    [
+     "from",
+     0.1054
+    ],
+    [
+     "any",
+     0.1042
+    ],
+    [
+     "we",
+     0.1028
+    ],
+    [
+     "of",
+     0.0984
+    ],
+    [
+     "service",
+     0.0969
+    ],
+    [
+     "will",
+     0.0907
+    ]
+   ]
+  },
+  {
+   "text": "we may terminate or restrict your use of our service if you violate these terms of use or are engaged in illegal or fraudulent use of the service .",
+   "categories": [
+    "Unilateral termination"
+   ],
+   "unfair_probability": 0.824,
+   "tokens": [
+    [
+     "terminate",
+     0.2869
+    ],
+    [
+     "may",
+     0.1602
+    ],
+    [
+     "violate",
+     0.1216
+    ],
+    [
+     "or",
+     0.1119
+    ],
+    [
+     "we",
+     0.0992
+    ],
+    [
+     "restrict",
+     0.098
+    ],
+    [
+     "our",
+     0.0884
+    ],
+    [
+     "engaged",
+     0.0634
+    ]
+   ]
+  },
+  {
+   "text": "these terms of use shall be governed by and construed in accordance with the laws of the netherlands .",
+   "categories": [
+    "Choice of law"
+   ],
+   "unfair_probability": 0.741,
+   "tokens": [
+    [
+     "laws",
+     0.1771
+    ],
+    [
+     "governed",
+     0.1297
+    ],
+    [
+     "of",
+     0.1127
+    ],
+    [
+     "by",
+     0.097
+    ],
+    [
+     "the",
+     0.0907
+    ],
+    [
+     "and",
+     0.075
+    ],
+    [
+     "accordance",
+     0.0683
+    ],
+    [
+     "in",
+     0.0593
+    ]
+   ]
+  },
+  {
+   "text": "netflix may , from time to time , change these terms of use .",
+   "categories": [
+    "Unilateral change"
+   ],
+   "unfair_probability": 0.869,
+   "tokens": [
+    [
+     "change",
+     0.2485
+    ],
+    [
+     "to",
+     0.2209
+    ],
+    [
+     "time",
+     0.1614
+    ],
+    [
+     "may",
+     0.1325
+    ],
+    [
+     "time",
+     0.132
+    ],
+    [
+     "from",
+     0.1256
+    ],
+    [
+     "of",
+     0.1174
+    ],
+    [
+     "terms",
+     0.0918
+    ]
+   ]
+  },
+  {
+   "text": "while we 're not required to do so , we may access , review , screen , and delete your content at any time and for any reason , including if we think your content violates these terms .",
+   "categories": [
+    "Content removal"
+   ],
+   "unfair_probability": 0.69,
+   "tokens": [
+    [
+     "and",
+     0.0704
+    ],
+    [
+     "any",
+     0.069
+    ],
+    [
+     "may",
+     0.0678
+    ],
+    [
+     "for",
+     0.0645
+    ],
+    [
+     "content",
+     0.0572
+    ],
+    [
+     "time",
+     0.056
+    ],
+    [
+     "access",
+     0.0555
+    ],
+    [
+     "delete",
+     0.0397
+    ]
+   ]
+  },
+  {
+   "text": "and if snap group limited becomes aware that one of its users has repeatedly infringed copyrights , we will take reasonable steps within our power to terminate the user 's account .",
+   "categories": [
+    "Unilateral termination"
+   ],
+   "unfair_probability": 0.689,
+   "tokens": [
+    [
+     "terminate",
+     0.1351
+    ],
+    [
+     "to",
+     0.0845
+    ],
+    [
+     "the",
+     0.0767
+    ],
+    [
+     "user",
+     0.074
+    ],
+    [
+     "s",
+     0.0728
+    ],
+    [
+     "account",
+     0.0713
+    ],
+    [
+     "within",
+     0.0551
+    ],
+    [
+     "power",
+     0.0548
+    ]
+   ]
+  },
+  {
+   "text": "your content in memories might become unavailable for any number of reasons , including things like an operational glitch or a decision on our end to terminate your account .",
+   "categories": [
+    "Content removal",
+    "Unilateral termination"
+   ],
+   "unfair_probability": 0.532,
+   "tokens": [
+    [
+     "terminate",
+     0.0944
+    ],
+    [
+     "your",
+     0.0889
+    ],
+    [
+     "account",
+     0.0556
+    ],
+    [
+     "to",
+     0.054
+    ],
+    [
+     "including",
+     0.0521
+    ],
+    [
+     "an",
+     0.0487
+    ],
+    [
+     "become",
+     0.0421
+    ],
+    [
+     "operational",
+     -0.0122
+    ]
+   ]
+  },
+  {
+   "text": "we reserve the right to set storage limits for memories , and we may change these limits from time to time in our sole discretion .",
+   "categories": [
+    "Unilateral change"
+   ],
+   "unfair_probability": 0.848,
+   "tokens": [
+    [
+     "limits",
+     0.1353
+    ],
+    [
+     "to",
+     0.133
+    ],
+    [
+     "to",
+     0.1252
+    ],
+    [
+     "change",
+     0.1223
+    ],
+    [
+     "limits",
+     0.1221
+    ],
+    [
+     "for",
+     0.1114
+    ],
+    [
+     "sole",
+     0.0955
+    ],
+    [
+     "discretion",
+     0.0904
+    ]
+   ]
+  },
+  {
+   "text": "that means we may add or remove features , products , or functionalities , and we may also suspend or stop the services altogether .",
+   "categories": [
+    "Unilateral change",
+    "Unilateral termination"
+   ],
+   "unfair_probability": 0.815,
+   "tokens": [
+    [
+     "suspend",
+     0.2063
+    ],
+    [
+     "stop",
+     0.1429
+    ],
+    [
+     "or",
+     0.1343
+    ],
+    [
+     "or",
+     0.1326
+    ],
+    [
+     "the",
+     0.1227
+    ],
+    [
+     "remove",
+     0.1126
+    ],
+    [
+     "functionalities",
+     0.1071
+    ],
+    [
+     "may",
+     0.1025
+    ]
+   ]
+  },
+  {
+   "text": "snap group limited may also terminate these terms with you at any time , for any reason .",
+   "categories": [
+    "Unilateral termination"
+   ],
+   "unfair_probability": 0.768,
+   "tokens": [
+    [
+     "terminate",
+     0.2887
+    ],
+    [
+     "may",
+     0.1198
+    ],
+    [
+     "also",
+     0.1158
+    ],
+    [
+     "reason",
+     0.1117
+    ],
+    [
+     "any",
+     0.11
+    ],
+    [
+     "time",
+     0.0972
+    ],
+    [
+     "limited",
+     0.0838
+    ],
+    [
+     "at",
+     0.0674
+    ]
+   ]
+  },
+  {
+   "text": "our right to terminate these terms means that we may stop providing you with any services , or impose new or additional limits on your ability to use the services .",
+   "categories": [
+    "Unilateral termination"
+   ],
+   "unfair_probability": 0.753,
+   "tokens": [
+    [
+     "terminate",
+     0.1747
+    ],
+    [
+     "to",
+     0.139
+    ],
+    [
+     "these",
+     0.102
+    ],
+    [
+     "may",
+     0.099
+    ],
+    [
+     "terms",
+     0.0857
+    ],
+    [
+     "stop",
+     0.0759
+    ],
+    [
+     "or",
+     0.0749
+    ],
+    [
+     "any",
+     0.0688
+    ]
+   ]
+  },
+  {
+   "text": "for example , we may deactivate your account due to prolonged inactivity , and we may reclaim your username at any time for any reason .",
+   "categories": [
+    "Unilateral termination"
+   ],
+   "unfair_probability": 0.51,
+   "tokens": [
+    [
+     "reason",
+     0.0512
+    ],
+    [
+     "for",
+     0.0497
+    ],
+    [
+     "any",
+     0.0492
+    ],
+    [
+     "time",
+     0.0446
+    ],
+    [
+     "deactivate",
+     0.0444
+    ],
+    [
+     "due",
+     0.036
+    ],
+    [
+     "your",
+     0.0353
+    ],
+    [
+     "may",
+     0.0353
+    ]
+   ]
+  },
+  {
+   "text": "snap group limited , snap inc. , and their affiliates take no responsibility and assume no liability for any content that you , another user , or a third party creates , uploads , posts , sends , receives , or stores on or through our services .",
+   "categories": [
+    "Limitation of liability"
+   ],
+   "unfair_probability": 0.524,
+   "tokens": [
+    [
+     "liability",
+     0.1974
+    ],
+    [
+     "for",
+     0.1675
+    ],
+    [
+     "any",
+     0.0898
+    ],
+    [
+     "group",
+     0.039
+    ],
+    [
+     "inc",
+     0.0378
+    ],
+    [
+     "take",
+     0.0334
+    ],
+    [
+     "their",
+     0.0328
+    ],
+    [
+     "you",
+     -0.0209
+    ]
+   ]
+  },
+  {
+   "text": "in no event will snap group limited , snap inc. , or their affiliates ' aggregate liability for all claims relating to the services exceed the greater of # 100 gbp or the amount you paid snap group limited , if any , in the last 12 months .",
+   "categories": [
+    "Limitation of liability"
+   ],
+   "unfair_probability": 0.657,
+   "tokens": [
+    [
+     "liability",
+     0.2198
+    ],
+    [
+     "for",
+     0.1439
+    ],
+    [
+     "aggregate",
+     0.0783
+    ],
+    [
+     "inc",
+     0.0758
+    ],
+    [
+     "affiliates",
+     0.0417
+    ],
+    [
+     "all",
+     0.0415
+    ],
+    [
+     "snap",
+     0.0386
+    ],
+    [
+     "claims",
+     0.0263
+    ]
+   ]
+  },
+  {
+   "text": "you and snap group limited consent to the exclusive jurisdiction of those courts .",
+   "categories": [
+    "Jurisdiction"
+   ],
+   "unfair_probability": 0.831,
+   "tokens": [
+    [
+     "jurisdiction",
+     0.3086
+    ],
+    [
+     "courts",
+     0.253
+    ],
+    [
+     "exclusive",
+     0.157
+    ],
+    [
+     "of",
+     0.1053
+    ],
+    [
+     "you",
+     0.0692
+    ],
+    [
+     "snap",
+     -0.0631
+    ],
+    [
+     "to",
+     0.0499
+    ],
+    [
+     "the",
+     0.0429
+    ]
+   ]
+  },
+  {
+   "text": "the laws of england and wales govern these terms and any claims and disputes ( whether contractual or otherwise ) arising out of or relating to these terms or their subject matter .",
+   "categories": [
+    "Choice of law"
+   ],
+   "unfair_probability": 0.653,
+   "tokens": [
+    [
+     "the",
+     0.1255
+    ],
+    [
+     "laws",
+     0.1196
+    ],
+    [
+     "of",
+     0.0987
+    ],
+    [
+     "and",
+     0.0728
+    ],
+    [
+     "contractual",
+     0.0677
+    ],
+    [
+     "claims",
+     0.0575
+    ],
+    [
+     "arising",
+     0.0556
+    ],
+    [
+     "terms",
+     -0.0296
+    ]
+   ]
+  },
+  {
+   "text": "by using the services you agree to be bound by these terms .",
+   "categories": [
+    "Contract by using"
+   ],
+   "unfair_probability": 0.736,
+   "tokens": [
+    [
+     "agree",
+     0.1877
+    ],
+    [
+     "bound",
+     0.1603
+    ],
+    [
+     "terms",
+     0.1237
+    ],
+    [
+     "you",
+     0.0973
+    ],
+    [
+     "to",
+     0.0928
+    ],
+    [
+     "by",
+     0.0831
+    ],
+    [
+     "be",
+     0.0602
+    ],
+    [
+     "these",
+     0.0576
+    ]
+   ]
+  },
+  {
+   "text": "we reserve the right to remove content alleged to be infringing without prior notice , at our sole discretion , and without liability to you .",
+   "categories": [
+    "Content removal"
+   ],
+   "unfair_probability": 0.757,
+   "tokens": [
+    [
+     "remove",
+     0.1433
+    ],
+    [
+     "right",
+     0.1052
+    ],
+    [
+     "liability",
+     0.1001
+    ],
+    [
+     "you",
+     0.0979
+    ],
+    [
+     "to",
+     0.0967
+    ],
+    [
+     "to",
+     0.0862
+    ],
+    [
+     "reserve",
+     0.076
+    ],
+    [
+     "infringing",
+     0.0652
+    ]
+   ]
+  },
+  {
+   "text": "as such , the services may change from time to time , at our discretion .",
+   "categories": [
+    "Unilateral change"
+   ],
+   "unfair_probability": 0.807,
+   "tokens": [
+    [
+     "change",
+     0.2547
+    ],
+    [
+     "may",
+     0.1643
+    ],
+    [
+     "to",
+     0.1542
+    ],
+    [
+     "time",
+     0.15
+    ],
+    [
+     "time",
+     0.1427
+    ],
+    [
+     "discretion",
+     0.1172
+    ],
+    [
+     "from",
+     0.1119
+    ],
+    [
+     "the",
+     0.0818
+    ]
+   ]
+  },
+  {
+   "text": "we may stop ( permanently or temporarily ) providing the services or any features within the services to you or to users generally .",
+   "categories": [
+    "Unilateral termination"
+   ],
+   "unfair_probability": 0.761,
+   "tokens": [
+    [
+     "stop",
+     0.1658
+    ],
+    [
+     "may",
+     0.1416
+    ],
+    [
+     "or",
+     0.1025
+    ],
+    [
+     "services",
+     0.0794
+    ],
+    [
+     "or",
+     0.0788
+    ],
+    [
+     "generally",
+     0.0733
+    ],
+    [
+     "we",
+     0.0692
+    ],
+    [
+     "permanently",
+     0.0658
+    ]
+   ]
+  },
+  {
+   "text": "we also retain the right to create limits on use and storage at our sole discretion at any time .",
+   "categories": [
+    "Unilateral change"
+   ],
+   "unfair_probability": 0.647,
+   "tokens": [
+    [
+     "time",
+     0.0769
+    ],
+    [
+     "at",
+     0.0758
+    ],
+    [
+     "any",
+     0.0665
+    ],
+    [
+     "discretion",
+     0.0613
+    ],
+    [
+     "on",
+     0.0605
+    ],
+    [
+     "also",
+     0.0568
+    ],
+    [
+     "limits",
+     0.0523
+    ],
+    [
+     "sole",
+     0.0445
+    ]
+   ]
+  },
+  {
+   "text": "we may also remove or refuse to distribute any content on the services , suspend or terminate users , and reclaim usernames without liability to you .",
+   "categories": [
+    "Content removal",
+    "Limitation of liability"
+   ],
+   "unfair_probability": 0.849,
+   "tokens": [
+    [
+     "terminate",
+     0.1668
+    ],
+    [
+     "or",
+     0.1642
+    ],
+    [
+     "suspend",
+     0.1499
+    ],
+    [
+     "or",
+     0.1415
+    ],
+    [
+     "may",
+     0.1361
+    ],
+    [
+     "we",
+     0.1192
+    ],
+    [
+     "remove",
+     0.1101
+    ],
+    [
+     "without",
+     0.1015
+    ]
+   ]
+  },
+  {
+   "text": "as such , the services may change from time to time , at our discretion .",
+   "categories": [
+    "Unilateral change"
+   ],
+   "unfair_probability": 0.807,
+   "tokens": [
+    [
+     "change",
+     0.2139
+    ],
+    [
+     "time",
+     0.1769
+    ],
+    [
+     "to",
+     0.1596
+    ],
+    [
+     "may",
+     0.1427
+    ],
+    [
+     "time",
+     0.137
+    ],
+    [
+     "discretion",
+     0.1358
+    ],
+    [
+     "from",
+     0.0857
+    ],
+    [
+     "such",
+     0.0833
+    ]
+   ]
+  },
+  {
+   "text": "we may stop ( permanently or temporarily ) providing the services or any features within the services to you or to users generally .",
+   "categories": [
+    "Unilateral termination"
+   ],
+   "unfair_probability": 0.761,
+   "tokens": [
+    [
+     "stop",
+     0.1572
+    ],
+    [
+     "may",
+     0.1112
+    ],
+    [
+     "permanently",
+     0.0892
+    ],
+    [
+     "or",
+     0.0807
+    ],
+    [
+     "or",
+     0.0782
+    ],
+    [
+     "temporarily",
+     0.075
+    ],
+    [
+     "users",
+     0.068
+    ],
+    [
+     "or",
+     0.0622
+    ]
+   ]
+  },
+  {
+   "text": "we also retain the right to create limits on use and storage at our sole discretion at any time .",
+   "categories": [
+    "Unilateral change"
+   ],
+   "unfair_probability": 0.647,
+   "tokens": [
+    [
+     "time",
+     0.1029
+    ],
+    [
+     "any",
+     0.0754
+    ],
+    [
+     "at",
+     0.0656
+    ],
+    [
+     "to",
+     0.0571
+    ],
+    [
+     "right",
+     0.0557
+    ],
+    [
+     "discretion",
+     0.0514
+    ],
+    [
+     "on",
+     0.0452
+    ],
+    [
+     "limits",
+     0.0416
+    ]
+   ]
+  },
+  {
+   "text": "we may also remove or refuse to distribute any content on the services , suspend or terminate users , and reclaim usernames without liability to you .",
+   "categories": [
+    "Content removal",
+    "Limitation of liability"
+   ],
+   "unfair_probability": 0.849,
+   "tokens": [
+    [
+     "terminate",
+     0.1986
+    ],
+    [
+     "liability",
+     0.1523
+    ],
+    [
+     "or",
+     0.1424
+    ],
+    [
+     "the",
+     0.1409
+    ],
+    [
+     "any",
+     0.1397
+    ],
+    [
+     "suspend",
+     0.1374
+    ],
+    [
+     "or",
+     0.136
+    ],
+    [
+     "may",
+     0.1086
+    ]
+   ]
+  },
+  {
+   "text": "by continuing to access or use the services after those revisions become effective , you agree to be bound by the revised terms .",
+   "categories": [
+    "Contract by using"
+   ],
+   "unfair_probability": 0.813,
+   "tokens": [
+    [
+     "agree",
+     0.209
+    ],
+    [
+     "bound",
+     0.1324
+    ],
+    [
+     "you",
+     0.1233
+    ],
+    [
+     "terms",
+     0.1158
+    ],
+    [
+     "the",
+     0.1111
+    ],
+    [
+     "to",
+     0.0993
+    ],
+    [
+     "by",
+     0.0957
+    ],
+    [
+     "by",
+     0.0931
+    ]
+   ]
+  }
+ ],
+ "ranked_tokens": [
+  {
+   "token": "to",
+   "clauses": 25,
+   "mean_weight": 0.1066
+  },
+  {
+   "token": "or",
+   "clauses": 20,
+   "mean_weight": 0.1116
+  },
+  {
+   "token": "time",
+   "clauses": 16,
+   "mean_weight": 0.1147
+  },
+  {
+   "token": "any",
+   "clauses": 16,
+   "mean_weight": 0.0962
+  },
+  {
+   "token": "terminate",
+   "clauses": 14,
+   "mean_weight": 0.1848
+  },
+  {
+   "token": "may",
+   "clauses": 14,
+   "mean_weight": 0.1208
+  },
+  {
+   "token": "the",
+   "clauses": 12,
+   "mean_weight": 0.0986
+  },
+  {
+   "token": "discretion",
+   "clauses": 9,
+   "mean_weight": 0.1083
+  },
+  {
+   "token": "of",
+   "clauses": 8,
+   "mean_weight": 0.1081
+  },
+  {
+   "token": "by",
+   "clauses": 7,
+   "mean_weight": 0.0986
+  },
+  {
+   "token": "for",
+   "clauses": 6,
+   "mean_weight": 0.1168
+  },
+  {
+   "token": "right",
+   "clauses": 6,
+   "mean_weight": 0.1136
+  },
+  {
+   "token": "change",
+   "clauses": 5,
+   "mean_weight": 0.2091
+  },
+  {
+   "token": "suspend",
+   "clauses": 5,
+   "mean_weight": 0.1812
+  },
+  {
+   "token": "liability",
+   "clauses": 5,
+   "mean_weight": 0.1802
+  },
+  {
+   "token": "laws",
+   "clauses": 5,
+   "mean_weight": 0.159
+  },
+  {
+   "token": "terms",
+   "clauses": 5,
+   "mean_weight": 0.1002
+  },
+  {
+   "token": "without",
+   "clauses": 5,
+   "mean_weight": 0.0973
+  },
+  {
+   "token": "you",
+   "clauses": 5,
+   "mean_weight": 0.0895
+  },
+  {
+   "token": "stop",
+   "clauses": 4,
+   "mean_weight": 0.1355
+  },
+  {
+   "token": "from",
+   "clauses": 4,
+   "mean_weight": 0.1071
+  },
+  {
+   "token": "we",
+   "clauses": 4,
+   "mean_weight": 0.0976
+  },
+  {
+   "token": "limits",
+   "clauses": 4,
+   "mean_weight": 0.0878
+  },
+  {
+   "token": "at",
+   "clauses": 4,
+   "mean_weight": 0.0831
+  },
+  {
+   "token": "and",
+   "clauses": 4,
+   "mean_weight": 0.0752
+  },
+  {
+   "token": "agree",
+   "clauses": 3,
+   "mean_weight": 0.1681
+  },
+  {
+   "token": "bound",
+   "clauses": 3,
+   "mean_weight": 0.1269
+  },
+  {
+   "token": "remove",
+   "clauses": 3,
+   "mean_weight": 0.122
+  },
+  {
+   "token": "your",
+   "clauses": 3,
+   "mean_weight": 0.0705
+  },
+  {
+   "token": "conflict",
+   "clauses": 2,
+   "mean_weight": 0.1951
+  },
+  {
+   "token": "modify",
+   "clauses": 2,
+   "mean_weight": 0.1687
+  },
+  {
+   "token": "governed",
+   "clauses": 2,
+   "mean_weight": 0.1679
+  },
+  {
+   "token": "reserves",
+   "clauses": 2,
+   "mean_weight": 0.1119
+  },
+  {
+   "token": "reserve",
+   "clauses": 2,
+   "mean_weight": 0.1014
+  },
+  {
+   "token": "also",
+   "clauses": 2,
+   "mean_weight": 0.0863
+  },
+  {
+   "token": "reason",
+   "clauses": 2,
+   "mean_weight": 0.0815
+  },
+  {
+   "token": "these",
+   "clauses": 2,
+   "mean_weight": 0.0798
+  },
+  {
+   "token": "permanently",
+   "clauses": 2,
+   "mean_weight": 0.0775
+  },
+  {
+   "token": "sole",
+   "clauses": 2,
+   "mean_weight": 0.07
+  },
+  {
+   "token": "in",
+   "clauses": 2,
+   "mean_weight": 0.0689
+  },
+  {
+   "token": "be",
+   "clauses": 2,
+   "mean_weight": 0.0669
+  },
+  {
+   "token": "services",
+   "clauses": 2,
+   "mean_weight": 0.0666
+  },
+  {
+   "token": "no",
+   "clauses": 2,
+   "mean_weight": 0.0639
+  },
+  {
+   "token": "account",
+   "clauses": 2,
+   "mean_weight": 0.0635
+  },
+  {
+   "token": "inc",
+   "clauses": 2,
+   "mean_weight": 0.0568
+  },
+  {
+   "token": "on",
+   "clauses": 2,
+   "mean_weight": 0.0528
+  },
+  {
+   "token": "access",
+   "clauses": 2,
+   "mean_weight": 0.0505
+  },
+  {
+   "token": "claims",
+   "clauses": 2,
+   "mean_weight": 0.0419
+  },
+  {
+   "token": "jurisdiction",
+   "clauses": 1,
+   "mean_weight": 0.3086
+  },
+  {
+   "token": "courts",
+   "clauses": 1,
+   "mean_weight": 0.253
+  },
+  {
+   "token": "changes",
+   "clauses": 1,
+   "mean_weight": 0.1703
+  },
+  {
+   "token": "exclusive",
+   "clauses": 1,
+   "mean_weight": 0.157
+  },
+  {
+   "token": "disable",
+   "clauses": 1,
+   "mean_weight": 0.141
+  },
+  {
+   "token": "discontinue",
+   "clauses": 1,
+   "mean_weight": 0.1397
+  },
+  {
+   "token": "prior",
+   "clauses": 1,
+   "mean_weight": 0.1332
+  },
+  {
+   "token": "refuse",
+   "clauses": 1,
+   "mean_weight": 0.1234
+  },
+  {
+   "token": "violate",
+   "clauses": 1,
+   "mean_weight": 0.1216
+  },
+  {
+   "token": "act",
+   "clauses": 1,
+   "mean_weight": 0.1212
+  },
+  {
+   "token": "functionalities",
+   "clauses": 1,
+   "mean_weight": 0.1071
+  },
+  {
+   "token": "conditions",
+   "clauses": 1,
+   "mean_weight": 0.1062
+  },
+  {
+   "token": "make",
+   "clauses": 1,
+   "mean_weight": 0.1047
+  },
+  {
+   "token": "circumstances",
+   "clauses": 1,
+   "mean_weight": 0.0999
+  },
+  {
+   "token": "restrict",
+   "clauses": 1,
+   "mean_weight": 0.098
+  },
+  {
+   "token": "service",
+   "clauses": 1,
+   "mean_weight": 0.0969
+  },
+  {
+   "token": "notice",
+   "clauses": 1,
+   "mean_weight": 0.0965
+  },
+  {
+   "token": "will",
+   "clauses": 1,
+   "mean_weight": 0.0907
+  },
+  {
+   "token": "our",
+   "clauses": 1,
+   "mean_weight": 0.0884
+  },
+  {
+   "token": "revoke",
+   "clauses": 1,
+   "mean_weight": 0.084
+  },
+  {
+   "token": "limited",
+   "clauses": 1,
+   "mean_weight": 0.0838
+  },
+  {
+   "token": "such",
+   "clauses": 1,
+   "mean_weight": 0.0833
+  },
+  {
+   "token": "accounts",
+   "clauses": 1,
+   "mean_weight": 0.0829
+  },
+  {
+   "token": "academia",
+   "clauses": 1,
+   "mean_weight": 0.0798
+  },
+  {
+   "token": "aggregate",
+   "clauses": 1,
+   "mean_weight": 0.0783
+  },
+  {
+   "token": "holders",
+   "clauses": 1,
+   "mean_weight": 0.075
+  },
+  {
+   "token": "temporarily",
+   "clauses": 1,
+   "mean_weight": 0.075
+  },
+  {
+   "token": "user",
+   "clauses": 1,
+   "mean_weight": 0.074
+  },
+  {
+   "token": "generally",
+   "clauses": 1,
+   "mean_weight": 0.0733
+  },
+  {
+   "token": "s",
+   "clauses": 1,
+   "mean_weight": 0.0728
+  },
+  {
+   "token": "policy",
+   "clauses": 1,
+   "mean_weight": 0.0687
+  },
+  {
+   "token": "accordance",
+   "clauses": 1,
+   "mean_weight": 0.0683
+  },
+  {
+   "token": "users",
+   "clauses": 1,
+   "mean_weight": 0.068
+  },
+  {
+   "token": "contractual",
+   "clauses": 1,
+   "mean_weight": 0.0677
+  },
+  {
+   "token": "infringing",
+   "clauses": 1,
+   "mean_weight": 0.0652
+  },
+  {
+   "token": "engaged",
+   "clauses": 1,
+   "mean_weight": 0.0634
+  },
+  {
+   "token": "third",
+   "clauses": 1,
+   "mean_weight": 0.0624
+  },
+  {
+   "token": "content",
+   "clauses": 1,
+   "mean_weight": 0.0572
+  },
+  {
+   "token": "arising",
+   "clauses": 1,
+   "mean_weight": 0.0556
+  },
+  {
+   "token": "within",
+   "clauses": 1,
+   "mean_weight": 0.0551
+  },
+  {
+   "token": "power",
+   "clauses": 1,
+   "mean_weight": 0.0548
+  },
+  {
+   "token": "responsibility",
+   "clauses": 1,
+   "mean_weight": 0.0522
+  },
+  {
+   "token": "including",
+   "clauses": 1,
+   "mean_weight": 0.0521
+  },
+  {
+   "token": "an",
+   "clauses": 1,
+   "mean_weight": 0.0487
+  },
+  {
+   "token": "deactivate",
+   "clauses": 1,
+   "mean_weight": 0.0444
+  },
+  {
+   "token": "become",
+   "clauses": 1,
+   "mean_weight": 0.0421
+  },
+  {
+   "token": "affiliates",
+   "clauses": 1,
+   "mean_weight": 0.0417
+  },
+  {
+   "token": "all",
+   "clauses": 1,
+   "mean_weight": 0.0415
+  },
+  {
+   "token": "delete",
+   "clauses": 1,
+   "mean_weight": 0.0397
+  },
+  {
+   "token": "group",
+   "clauses": 1,
+   "mean_weight": 0.039
+  },
+  {
+   "token": "snap",
+   "clauses": 1,
+   "mean_weight": 0.0386
+  },
+  {
+   "token": "due",
+   "clauses": 1,
+   "mean_weight": 0.036
+  },
+  {
+   "token": "take",
+   "clauses": 1,
+   "mean_weight": 0.0334
+  },
+  {
+   "token": "their",
+   "clauses": 1,
+   "mean_weight": 0.0328
+  }
+ ]
+}

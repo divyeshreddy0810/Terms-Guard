@@ -1,0 +1,302 @@
+{
+  "0": {
+    "a_is_grounded": true,
+    "gold_labels": [
+      "Unilateral change"
+    ],
+    "retrieved": [
+      "continued use of the services after any such changes shall constitute your consent to such changes .",
+      "if the changes include material changes that affect your rights or obligations , we will notify you in advance of the changes by reasonable means , which could include notification through the services or via email .",
+      "notification of changes in this agreement will be posted on the service or sent via electronic mail , as we may determine in our sole discretion ."
+    ]
+  },
+  "1": {
+    "a_is_grounded": false,
+    "gold_labels": [
+      "Contract by using"
+    ],
+    "retrieved": [
+      "if you do not agree to updated terms , you should stop using our services and/or close your account .",
+      "you agree that we may notify you of the updated terms by posting them on the service , and that your use of the service after the effective date of the updated terms ( or engaging in such other conduct as we may reasonably specify ) constitutes your agreement to the updated terms .",
+      "you consent and agree to receive notices of updates of these terms through our posting of updated terms on the services ."
+    ]
+  },
+  "2": {
+    "a_is_grounded": false,
+    "gold_labels": [
+      "Unilateral change"
+    ],
+    "retrieved": [
+      "if the changes include material changes that affect your rights or obligations , we will notify you in advance of the changes by reasonable means , which could include notification through the services or via email .",
+      "we may provide additional notice , such as an e-mail message or messaging within the services , of any material changes .",
+      "we 'll provide you with reasonable advance notice via the email address associated with your account to remedy the activity that prompted us to contact you and give you the opportunity to export your stuff from our services ."
+    ]
+  },
+  "3": {
+    "a_is_grounded": true,
+    "gold_labels": [
+      "Unilateral change"
+    ],
+    "retrieved": [
+      "we reserve the right to change this user agreement from time to time without notice .",
+      "the company reserves the right , at its sole discretion , to periodically amend or revise the terms of this agreement ; material changes will be effective immediately upon the publication of the amended agreement .",
+      "occasionally we may , in our discretion , make changes to the agreements ."
+    ]
+  },
+  "4": {
+    "a_is_grounded": true,
+    "gold_labels": [],
+    "retrieved": [
+      "unless otherwise provided by law or by a particular service offer , all purchases are final and non-refundable .",
+      "if we discontinue services in this way before the end of any fixed or minimum term you have paid us for , we 'll refund the portion of the fees you have pre-paid but have n't received services for .",
+      "all purchases of premium services are final and non-refundable , except at our sole discretion and in accordance with the rules governing each premium service ."
+    ]
+  },
+  "5": {
+    "a_is_grounded": true,
+    "gold_labels": [],
+    "retrieved": [
+      "any person may opt-out of this feature , free of charge , by contacting us at : support@sync.me .",
+      "you may at any time opt-out of this feature by deactivating it , in which case we will de-list your contacts ( unless their details were provided by other sources ) .",
+      "this is why we have different features allowing you to do so ."
+    ]
+  },
+  "6": {
+    "a_is_grounded": false,
+    "gold_labels": [],
+    "retrieved": [
+      "we 'll try to resolve the dispute informally by contacting you via email .",
+      "tell us your name , address , how to contact you , what the problem is , and what you want .",
+      "please notify our support team immediately of any actual or suspected breach or unauthorized access or use of your account ."
+    ]
+  },
+  "7": {
+    "a_is_grounded": false,
+    "gold_labels": [
+      "Arbitration"
+    ],
+    "retrieved": [
+      "this includes disputes arising out of or relating to interpretation or application of this `` mandatory arbitration provisions '' section , including its enforceability , revocability , or validity .",
+      "disputes arising hereunder will be resolved by binding arbitration .",
+      "for more information about which court we can go to for resolving these types of disputes , see section 19 ( venue for legal disputes not subject to arbitration ) ."
+    ]
+  },
+  "8": {
+    "a_is_grounded": true,
+    "gold_labels": [
+      "Limitation of liability"
+    ],
+    "retrieved": [
+      "please also note that the linked sites are not under our control and may collect data or ask you to provide them with your personal or other information , or they may automatically collect information from you .",
+      "also , just because we allow a link to be included in our games or service does not mean we endorse that linked site .",
+      "we provide these links only as a convenience and are not responsible for the content , products , or services on or available from those websites , or resources or links displayed on such websites ."
+    ]
+  },
+  "9": {
+    "a_is_grounded": false,
+    "gold_labels": [],
+    "retrieved": [
+      "you can decline this agreement to arbitrate by clicking here and submitting the opt-out form within 30 days of first registering your account .",
+      "you may opt out of this agreement to arbitrate .",
+      "opt-out of agreement to arbitrate ."
+    ]
+  },
+  "10": {
+    "a_is_grounded": false,
+    "gold_labels": [],
+    "retrieved": [
+      "nothing in these terms shall limit or exclude our liability for any liability that mandatorily can not be limited or excluded by law , including any rights you may have as a consumer under mandatory consumer law .",
+      "in certain jurisdictions , you may have legal rights as a consumer , and our terms are not intended to limit such consumer legal rights that may not be waived by contract .",
+      "the terms and conditions of these terms of service include , in particular , disclaimer of warranty in section 5 and limitation of liability in section 6 ."
+    ]
+  },
+  "11": {
+    "a_is_grounded": false,
+    "gold_labels": [],
+    "retrieved": [
+      "these terms and conditions of use ( `` terms '' ) govern your access to and use of our services .",
+      "by using our services , you are agreeing to these terms .",
+      "the terms of use ( or , the `` terms '' ) presented below are the basic rights and obligations that you and us have between us when you use our services ."
+    ]
+  },
+  "12": {
+    "a_is_grounded": false,
+    "gold_labels": [],
+    "retrieved": [
+      "the united states federal arbitration act will govern the interpretation , enforcement , and proceedings pursuant to the mandatory arbitration clause in this eula .",
+      "the federal arbitration act ( including its procedural provisions ) is the law that will be applied to determine whether section 17 ( agreement to arbitrate and class action waiver ) can be enforced and how it should be interpreted .",
+      "paragraph 20.3 is governed by the united states federal arbitration act ."
+    ]
+  },
+  "13": {
+    "a_is_grounded": false,
+    "gold_labels": [],
+    "retrieved": [
+      "special admonitions for international use and export and import compliance",
+      "you will comply with all applicable u.s. and non-u.s. export control and trade sanctions laws ( `` export laws '' ) .",
+      "you must comply with all domestic and international export laws and regulations that apply to the software and/or services , which include restrictions on destinations , end users , and end use ."
+    ]
+  },
+  "14": {
+    "a_is_grounded": false,
+    "gold_labels": [],
+    "retrieved": [
+      "if you are under 13 years of age you may not use the services .",
+      "if you are between the ages of 13-18 , you may use the services ( excluding under armour shopping and myfitnesspal ) only with the supervision and consent of a parent or guardian .",
+      "for paid subscriptions , you must be 18 or older , or be 14 or older with parent or guardian consent ."
+    ]
+  },
+  "15": {
+    "a_is_grounded": false,
+    "gold_labels": [
+      "Unilateral termination"
+    ],
+    "retrieved": [
+      "we may suspend , or terminate your access to or use of our services anytime for any reason , such as if you violate the letter or spirit of our terms and polices , or create harm , risk , or possible legal exposure for us , our users , or others .",
+      "if we disable your account for a violation of our terms , you will not create another account without our permission .",
+      "we may also deactivate , terminate or suspend your account at any time : ( 1 ) if we , in our sole discretion , determine that you are or have been in violation of these terms or the spirit thereof ( as highlighted in our community guidelines ) , ( 2 ) if we , in our sole discretion , determine that you have created risk or possible legal exposure for under armour or any other athlete , ( 3 ) in response to requests by law enforcement or other government agencies , ( 4 ) upon discontinuance or material modification of any services , or ( 5 ) due to unexpected technical issues or problems ."
+    ]
+  },
+  "16": {
+    "a_is_grounded": false,
+    "gold_labels": [
+      "Limitation of liability"
+    ],
+    "retrieved": [
+      "rovio shall have no liability to you or any third party in the event that rovio exercises any such rights .",
+      "insofar as the services utilize components or functions operated or managed by third parties , onavo will not be liable for any form of liability , including , but not limited to any direct or indirect damage , pecuniary or otherwise , arising from the use of , reliance on , or in connection with , such third parties ' components and functions .",
+      "onavo assumes no liability for your use of the content or any applications assistance provided by onavo ."
+    ]
+  },
+  "17": {
+    "a_is_grounded": true,
+    "gold_labels": [],
+    "retrieved": [
+      "you may only use the ua content and services for legally permitted purposes .",
+      "you must access and use our services only for legal , authorized , and acceptable purposes .",
+      "you may use our services only as permitted by applicable law , including export control laws and regulations ."
+    ]
+  },
+  "18": {
+    "a_is_grounded": false,
+    "gold_labels": [
+      "Contract by using"
+    ],
+    "retrieved": [
+      "and by your use of the service , you consent to such disclosures and communications subject to the terms of our privacy statement .",
+      "by using the service , you consent to receiving certain electronic communications from us as further described in the privacy policy .",
+      "by using the services , you indicate that you understand and consent to the collection , use , and disclosure of your information as described in our privacy policy , which is available at : http://www.onavo.com/privacy_policy ."
+    ]
+  },
+  "19": {
+    "a_is_grounded": true,
+    "gold_labels": [
+      "Limitation of liability"
+    ],
+    "retrieved": [
+      "apple is not responsible for addressing any claims by you or any third party relating to the service or your possession and/or use of the service , including , but not limited to : ( 1 ) product liability claims ; ( 2 ) any claim that the service fails to conform to any applicable legal or regulatory requirement ; and ( 3 ) claims arising under consumer protection or similar legislation .",
+      "the company does not warrant , endorse , guarantee or responsible for any third party , including without limitation advertisers , other users of the service and parties who offer services through the service .",
+      "insofar as the services utilize components or functions operated or managed by third parties , onavo will not be liable for any form of liability , including , but not limited to any direct or indirect damage , pecuniary or otherwise , arising from the use of , reliance on , or in connection with , such third parties ' components and functions ."
+    ]
+  },
+  "20": {
+    "a_is_grounded": false,
+    "gold_labels": [],
+    "retrieved": [
+      "infringes on any trademark , patent , trade secret , copyright , or other proprietary right of any party ;",
+      "the application may be subject to united states or international technology control or export laws and regulations .",
+      "to learn more , visit our how to report claims of intellectual property infringement page ."
+    ]
+  },
+  "21": {
+    "a_is_grounded": true,
+    "gold_labels": [
+      "Content removal"
+    ],
+    "retrieved": [
+      "you acknowledge and agree that the company provides you the right to report objectionable content as a courtesy , and the company has no obligation to remove or take any other action with respect to any objectionable content on the service that you report to us .",
+      "while we do not and can not review every message or other material posted or sent by users of the service , and are not responsible for any content of these messages or materials , we reserve the right , but are not obligated , to delete , move , or edit messages or materials , including without limitation property profiles , public postings and messages , that we , in our sole discretion , deem to violate the code of conduct set out above or any applicable content guidelines , or to be otherwise unacceptable .",
+      "you agree not to remove , alter , or obscure any copyright , trademark , service mark , or other proprietary rights notices incorporated in or accompanying the services or content ."
+    ]
+  },
+  "22": {
+    "a_is_grounded": true,
+    "gold_labels": [],
+    "retrieved": [
+      "notice and procedure for making claims of copyright infringement .",
+      "notice and procedure for making claims of copyright or intellectual property infringement",
+      "notice and procedure for making claims of copyright or other intellectual property infringements"
+    ]
+  },
+  "23": {
+    "a_is_grounded": true,
+    "gold_labels": [],
+    "retrieved": [
+      "for virtual items , your order will represent an offer to us to obtain a limited license for the relevant service ( s ) or virtual in-game item ( s ) which will be accepted by us when we make the virtual items available in your account for you to use in our games or debit the account through which you paid , whichever comes first .",
+      "if you accept any offer , you may have to sign a declaration of eligibility and liability release , or sign other paperwork in order to get the offer .",
+      "by making a reservation through booking.com , you enter into a direct ( legally binding ) contractual relationship with the supplier with which you make a reservation or purchase a product or service ( as applicable ) ."
+    ]
+  },
+  "24": {
+    "a_is_grounded": false,
+    "gold_labels": [
+      "Limitation of liability"
+    ],
+    "retrieved": [
+      "in no event will any company party be liable for any special , indirect , punitive , incidental or consequential damages , lost profits , or damages resulting from lost data or business interruption resulting from , or in connection with , the use or inability to use the service and any content thereon , whether based on warranty , contract , tort ( including negligence ) , or any other legal theory , even if such company party has been advised of the possibility of such damages .",
+      "in no event shall onavo be liable to anyone for any indirect , punitive , special , exemplary , incidental , consequential or other damages of any type or kind ( including loss of data , revenue , profits , use or other economic advantage ) arising out of , or in any way connected with the services , including but not limited to the use or inability to use the services , or for any content obtained from or through the services , any interruption , inaccuracy , error or omission , even if onavo has been previously advised of the possibility of such damages .",
+      "insofar as the services utilize components or functions operated or managed by third parties , onavo will not be liable for any form of liability , including , but not limited to any direct or indirect damage , pecuniary or otherwise , arising from the use of , reliance on , or in connection with , such third parties ' components and functions ."
+    ]
+  },
+  "25": {
+    "a_is_grounded": false,
+    "gold_labels": [],
+    "retrieved": [
+      "i. circumvent or bypass any technological protection measures in or relating to the software or services ;",
+      "we may employ various technological measures to monitor , detect and prevent misuse of the services .",
+      "do not interfere with or damage operation of the services , including through unauthorized use , disruption , automated attacks , exploitation , or abuse of our resources ."
+    ]
+  },
+  "26": {
+    "a_is_grounded": true,
+    "gold_labels": [],
+    "retrieved": [
+      "do n't use the services in a way that harms minors ( or anyone , really ) .",
+      "if you are the parent or legal guardian of a child under the age of 13 ( the `` parent '' ) , you are agreeing to these terms on behalf of yourself and your child ( ren ) who are authorized to use the services pursuant to these terms and in our privacy policy .",
+      "parents can restrict the use their child makes of the service by way of a parental control system ."
+    ]
+  },
+  "27": {
+    "a_is_grounded": true,
+    "gold_labels": [
+      "Jurisdiction"
+    ],
+    "retrieved": [
+      "you expressly agree to submit to the exclusive personal jurisdiction of the state and federal courts sitting in san francisco county , california .",
+      "all disputes or claims arising out of or relating to these terms of use shall be subject to the exclusive jurisdiction of the english courts to which the parties irrevocably submit .",
+      "all disputes arising under the terms between you and under armour will be subject to the non-exclusive jurisdiction of the courts located in your place of domicile , or the courts located in the netherlands , and you and we hereby submit to the personal jurisdiction and venue of these courts ."
+    ]
+  },
+  "28": {
+    "a_is_grounded": false,
+    "gold_labels": [
+      "Contract by using"
+    ],
+    "retrieved": [
+      "you agree to our data practices , including the collection , use , processing , and sharing of your information as described in our privacy policy , as well as the transfer and processing of your information to the united states and other countries globally where we have or use facilities , service providers , or partners , regardless of where you use our services .",
+      "by using the services you consent to the collection , use , and sharing of such personal data ( as set forth in the privacy policy , including the transfer of this personal data to the united states and/or other countries for storage , processing , and use by under armour .",
+      "registration data and certain other information about you are subject to our applicable privacy policy ."
+    ]
+  },
+  "29": {
+    "a_is_grounded": false,
+    "gold_labels": [
+      "Unilateral change"
+    ],
+    "retrieved": [
+      "9gag , inc retains the right to create limits on use and storage in its sole discretion at any time with or without notice .",
+      "we may also impose limits on certain services or restrict your access to part or all of the services without notice or liability .",
+      "microsoft reserves the right to modify our usage rules at any time ."
+    ]
+  }
+}

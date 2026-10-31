@@ -1,0 +1,35 @@
+{
+  "privacy_test": "OPP-115, 23 held-out policies",
+  "privacy_sentences": 275,
+  "contract_sentences": 1607,
+  "polarity_check": {
+    "off": {
+      "privacy": {
+        "precision": 0.913,
+        "recall": 0.7706,
+        "f1": 0.8358
+      },
+      "privacy_accuracy": 0.88,
+      "contract": {
+        "precision": 0.7702,
+        "recall": 0.7209,
+        "f1": 0.7447
+      },
+      "minimal_pairs_accuracy": 0.7143
+    },
+    "on": {
+      "privacy": {
+        "precision": 0.913,
+        "recall": 0.7706,
+        "f1": 0.8358
+      },
+      "privacy_accuracy": 0.88,
+      "contract": {
+        "precision": 0.747,
+        "recall": 0.7209,
+        "f1": 0.7337
+      },
+      "minimal_pairs_accuracy": 0.8571
+    }
+  }
+}
