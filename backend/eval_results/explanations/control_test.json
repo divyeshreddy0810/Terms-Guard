@@ -1,0 +1,9 @@
+{
+ "clauses": 95,
+ "original_mean": 0.7591,
+ "grammar_only_mean": 0.0681,
+ "legal_words_only_mean": 0.2463,
+ "grammar_only_still_unfair": 0.0,
+ "legal_words_only_still_unfair": 0.1158,
+ "confidence_lost_without_legal_words": 0.9102
+}

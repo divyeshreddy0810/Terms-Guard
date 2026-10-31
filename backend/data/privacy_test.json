@@ -1,0 +1,2515 @@
+{
+ "source": "OPP-115, 23 held-out policies",
+ "harmful": [
+  {
+   "text": "The only times we will divulge a visitor's personal information to a third party are disclosed in this policy.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "In the event Tulsaworld.com contracts with an outside research firm, we may provide your contact information to the research firm to contact you regarding participation in surveys, focus groups or other research activities that will help us improve Tulsaworld.com's products and services.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Tulsaworld.com also tracks and collects non-personally identifiable information which does not identify a specific visitor.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "We, and/or our authorized third party service providers and advertisers, may automatically collect this information when you visit our Website through the use of electronic tools like cookies and web beacons or pixel tags, as described below.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "We may also share this information with our authorized third party service providers and advertisers to measure the overall effectiveness of our online advertising, content, and programming.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Non-personally identifiable information may include the Uniform Resource Locator (\"URL\") of the website your visited before coming to our Website, the URL of the website you visit after leaving our Website, the type of browser you are using and your Internet Protocol (\"IP\") address.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "General statistical information Visits to Tulsaworld.com are monitored to gather statistical information, including the number of visits to the site, the pages visited, which domains visitors come from and the browsers used to visit the site.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "We may share aggregated research (but not individual user information) with our advertisers or business partners.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Additionally, Tulsaworld.com may use your information to contact you to ask for your participation in a focus group, survey, or some other type of research effort.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "To customize your experience on Tulsaworld.com.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "This information may also be used to send targeted marketing, such as emails, to users that we think would be interested in such marketing.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "If you supply Tulsaworld.com with your e-mail address, either by registering on the site, by communicating with us via e-mail, or signing up for promotional offers or emails, we may, from time to time, send you information that we believe would be of interest to you via e-mail.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "If you supply Tulsaworld.com with your postal address, we may send you periodic mailings with information on new products, coming events, surveys or other research materials, or other information we think might be of interest to you.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "If you provide your telephone number or cell phone number, Tulsaworld.com may call or text you regarding orders you have placed online, to tell you about new products, services, or coming events, or to offer other information that may interest you.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Sharing this Information may allow that advertiser to market directly to you should it choose to do so.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "However, we will only share personally identifiable information with an advertiser if you provide us that information and enter into a transaction with that advertiser on or through our Website.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Website, as well as give us a way to measure our promotions and performance.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "When you click on an advertisement, visit an advertiser's Web site or make a purchase from an advertiser, that company may use cookies according to their own policies.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "This information helps both advertisers and Tulsaworld.com make better decisions about where to place advertising.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Associated Press We participate in the News Registry, a service operated by the NewsRight, LLC (NewsRight).",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Any information disclosed in chat rooms, forums, message boards, and/or news groups becomes public information.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "A cookie is a small amount of data that is sent to your browser from Web sites and stored on your computer's hard drive.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Cookies and Web Beacons: Cookies are used to store and track information about you.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "In addition, MediaNews uses web beacons provided by third-party advertising companies to help manage our online advertising.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "In addition, MediaNews may share PIN, CIN and/or aggregate information with third parties such as advertisers and business partners.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "PIN and CIN may also be used to perform statistical, demographic and marketing analysis of subscribers and their subscribing and purchasing patterns, to target advertisements and to help diagnose problems with our services and our Web sites.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Advertising Third Parties: MediaNews may share PIN and CIN that is collected with third parties hired to perform services on our behalf, including, but not limited to, fulfilling subscription requests, sending e-mails and assisting in the provision of the MediaNews Web sites and services.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Program Product Offerings: MediaNews may use the PIN and CIN that is collected in order to offer you the opportunity to receive information and offers about products or services from our business partners or third parties.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "When you provide PIN information and access MediaNews Web sites, you are sharing PIN and CIN with MediaNews and MediaNews Group affiliates and MediaNews reserves the right to use and disclose the PIN and CIN it collects.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "If so, please be aware that CareerBuilder may share your information with that affiliate and the affiliate may use the information consistent with its privacy policy instead of this one.\"",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "You should also be assured that we do not provide or sell information about our customers or site visitors to anyone except our payment gateway provider for the sole purpose of credit card processing.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Digital Advertising Alliance's or Network Advertising Initiative's website.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Your IP Address Like most websites, each time you visit the Site, we automatically collect your IP address and the web page from which you came.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Information We Collect From You In order to operate the Site and provide you with information on products and services that may be of interest to you, we may collect personal information (i.e.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "By subscribing to our email newsletter (or electing to receive communications of any kind through the Site), you consent to us providing your email to our third-party email provider to facilitate the delivery of email.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "How We Use Demographic Information We use demographic information to tailor the Site and communications to the interests of our users.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "grouped) demographic information third parties (such as grant making organizations and foundations), so that they can tailor their advertisements and communications to the appropriate audience.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "If you wish to disable these cookies, the \"help\" portion of the toolbar on most browsers will tell you how.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "B) Information that we may have already forwarded to credit card companies or any other third parties, all as provided above in this privacy policy.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "These third parties include the credit card companies and banking institutions used to process the transaction.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "This means that, by default, they are not deleted from our servers ever and will still be accessible after your account is deleted.",
+   "polarity": "harmful",
+   "label": "Privacy: retains data indefinitely",
+   "split": "test"
+  },
+  {
+   "text": "Moreover, we keep a complete log of all messages sent on our service, even when both parties later delete their accounts.",
+   "polarity": "harmful",
+   "label": "Privacy: does not say how long data is kept",
+   "split": "test"
+  },
+  {
+   "text": "Except for the IP address you use to create the account, all IP addresses will be deleted from our servers after 90 days.",
+   "polarity": "harmful",
+   "label": "Privacy: retains data indefinitely",
+   "split": "test"
+  },
+  {
+   "text": "activity information We collect information about how all visitors browse the site to make reddit better.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Anonymous, aggregated information that cannot be linked back to an individual user may be made available to third parties.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "At reddit, we set only a few cookies for tracking user preferences, authentication, and collecting anonymous analytics data.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "california's 'do not track' law reddit's website does not currently respond to a Do Not Track (\"DNT\") or similar signal as it awaits the results of efforts by the policy and legal community to determine the meaning of DNT and the proper way to respond.",
+   "polarity": "harmful",
+   "label": "Privacy: ignores Do Not Track",
+   "split": "test"
+  },
+  {
+   "text": "preference cookies If you are logged out, reddit will place a simple cookie to remember if you indicate you would like to view over 18 content, or if you set a language preference.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Additionally, if you vote an advertisement up or down, our third-party advertising partner, Adzerk, will set a cookie to remember your ad preferences.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "reddit.tv will place a simple cookie to remember your channel choices, which includes the subreddits you choose as channels and how they are arranged, and your playback preferences including vote sort, autoplay, shuffle, NSFW/SFW, and whether annotations will be visible.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "By knowing how people use the site, we can make it better.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Some cookies may be placed during the provision of this service pursuant to Adzerk's privacy policy.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "To make our ads relevant to you, Adzerk receives information about the page the ad will appear on.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "email communications When you contact reddit support or subscribe to one of our email newsletters, reddit may use a third party service to send you email messages.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "activity and device information Our apps collect certain information about your device, including its IP address, device type, and its current operating system.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Any information collected by a reddit app while you are signed in to your reddit account is retained as described in the What Information We Collect section of this policy.",
+   "polarity": "harmful",
+   "label": "Privacy: does not say how long data is kept",
+   "split": "test"
+  },
+  {
+   "text": "We use personally identifiable information you supply through the Service to provide you with the merchandise, product, service, and/or Content you have requested.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "If you do not wish to have your personally identifiable information shared with third parties, contact our Privacy Policy Coordinator as described at the end of this document.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "If youve registered on any part of the Service, please use the mechanism or contact information on the Service that allows you to change or update your member preferences or information, if available, to keep all such data accurate and up-to-date.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "We reserve the right to access, use, and share with others your personally identifiable information for purposes of health, safety and other matters of public interest.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "The Service will at times place and/or store code or other types of information and/or devices (e.g., cookies) on your computer, mobile or other device (Local Device Storage).",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "However, we do not currently support any browser based Do Not Track (DNT) settings or participate in any DNT frameworks, and we do not assign any meaning to potential DNT track signals you may send or alter any of our data collection or use practices in response to such signals.",
+   "polarity": "harmful",
+   "label": "Privacy: ignores Do Not Track",
+   "split": "test"
+  },
+  {
+   "text": "The Service generally collects personally identifiable information with your specific knowledge and consent.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Your decision to use a social-networking service in connection with our Service is voluntary.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "To enrich user experience, we request and display some personal information to others so as to allow our users to identify each other.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Do Not Track Disclosure : The JibJab Sites do not currently respond to \"Do Not Track\" signals of Web browsers.",
+   "polarity": "harmful",
+   "label": "Privacy: ignores Do Not Track",
+   "split": "test"
+  },
+  {
+   "text": "Information Collection and Use JibJab collects user submitted information including but not limited to name, email address, and age to authenticate users and to send notifications to those users relating to the JibJab Sites and JibJab Services.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to users.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "It also enables us to send you announcement emails about our new content, features, services, products, promotions, etc.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "or to answer questions in order to participate in a Joint Offering, which personal information may be shared by JibJab with its partners involved in such Joint Offering, and such partners may use the information for its own advertising and marketing purposes.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "You may opt out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ad Settings or by installing the Google Analytics opt-out browser add-on.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "In addition, third-party vendors, such as Google, show these ads on sites across the Internet and JibJab and third-party vendors use both first-party and third-party cookies to inform, optimize, and serve ads based on user visits to the JibJab site.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "JibJab also utilizes \"Demographics and Interest Reporting\", which collects data based on user demographics and interests, including but not limited to: age, gender, affinity category behavior and other category behavior.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Please note that, in addition to JibJab's Flash cookies, third-party advertisers may set and use their own Flash cookies for user tracking purposes when serving and managing ads on the JibJab Sites.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Our fulfillment vendor will be given access to your full name and shipping address solely for the purpose of shipping your order.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Rather, we rely on Recurly, a PCI-DSS Level 1 compliant service merchant provider, to store all payment related data.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "The JibJab Sites also contain links to and/or enables certain third-party Internet functionalities to enhance your online experience, including, without limitation, social plug-ins, tools and APIs.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Users may be asked to provide personal information such as name, email address, home address, etc.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "When you check out on any of the JibJab Sites, you will be asked to enter your First Name, Last Name, Credit Card Information, Billing and Shipping Address as necessary to complete your transaction.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Use of Subscriber Information Your Subscriber Information may be used internally within UpToDate.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Use of Usage Information Your Usage Information may be disclosed internally within UpToDate and to third parties.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "For example, UpToDate may disclose Usage Information in order to better understand which parts of the Website users are visiting, to improve the content of the Website, and for marketing, advertising, or research purposes.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "To sign up for or participate in these features or functions, you may be required to provide us with certain Information about you in order for us to personalize and/or allow you to use such features and functions.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "There may be a separate registration process to enter Promotions such as contests and sweepstakes which may require the submission of all or some of the following: your first and last name, street address, city, state and zip code, email address, telephone number and date of birth.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "The Site and/or third parties may use \"cookies\", \"web beacons\" and other similar tracking technologies (collectively, \"Tracking Technologies\") to collect Other Information automatically as you browse the Site and the web.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "As set forth in this Privacy Policy, we may share Information with our Parent Companies and Affiliates.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Tailoring your experience on the Site and/or otherwise customizing what you see when you visit the Site;",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Saving your User ID or other Personal Information, so you don't have to re-enter it each time you visit the Site;",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Third Party Advertising Service Providers and Advertisers may collect Other Information about you when you visit this Site to help identify products and services that may interest you and deliver advertising tailored to your interests.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Some of these Third Party Advertising Service Providers and Advertisers may participate in the Network Advertising Initiative's Opt-Out Tool and/or the Self-Regulatory Program for Online Behavioral Advertising.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "The Information requested as part of the online registration process may include a user's telephone number or a wireless email address, but only if specifically requested, and the carrier's name.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "We will share Personal Information with the operational service providers that assist us in delivering these wireless services to you and with the Parent Companies and Affiliates.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "You can choose to opt-out of certain such uses as described in the \"Opting-Out of Certain Uses of Personal Information\" Section above.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "In addition to the above, we will make your Personal Information and Other Information available to certain third parties in the following limited circumstances:",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "In connection with Promotions, as necessary to administer the Promotion or as required by applicable laws, rules or regulations (for example, to provide winners' lists or make required filings as appropriate);",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "If you opt-in or otherwise agree to have your Personal Information shared with or otherwise disclosed to a third party for marketing purposes, in which case the third party's use of your Information is subject to the third party's own privacy policy;",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "We may share or otherwise disclose Other Information with third parties, but we do not disclose Personal Information to them except as described in this Privacy Policy.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "These Third Party Advertising Service Providers do not have access to Tracking Technologies set by the Site except to the extent necessary to provide services to the Site.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Improving the Site or our services and for internal business purposes;",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Such services and promotional opportunities are provided by the Parent Companies and/or Affiliates for Latin Post.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Depending on the Promotion, we may also collect an Internet email address or other Information and, depending on the Information collected, the user may also be required to confirm his or her agreement to this Privacy Policy and the Terms of Use Agreement.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "When you register on the Websites, cookies also allow us to save information so that you will not have to re-enter it the next time you visit.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "No personally identifiable information is collected.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Additionally, some Smithsonian Websites may use the Demographics and Interest reporting feature for Google Analytics for Display Advertising.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "We may also contact you to provide information about Smithsonian activities, programs, membership and development opportunities, products and special events that may interest you.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "The Smithsonian uses outside vendors to provide certain services, such as companies that process credit card transactions for the Smithsonian.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "You will be notified of any such sharing and provided an opportunity to opt-out.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "USA.gov may anonymize and provide this information to third party entities for the purposes of research analysis.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "We only share the information you give us with another government agency if your question relates to that agency, or as otherwise required by law.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "NON-PERSONAL INFORMATION We may also request non-personally identifiable information, for example, annual income, buying preferences, and age.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Information about your visit to their site, such as number of times you have viewed an ad (but not your name, address or other personal information), is used to serve ads to you.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "We may share this information with others, such as advertisers interested on advertising on the Liquor.com site but never on an individual level.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "to inform you about new products or promotional offers, or other opportunities which we feel will be of interest to you, and to provide advertisements to you through our sites, email messages, text messages, applications, or other methods of communication,",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "to administer surveys, sweepstakes, giveaways, contests, or similar promotions or events sponsored by us or our partners,",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Sharing Personal Information We may share personal information about you with third parties in the following circumstances:",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "We may share your contact data, insurance data, and medical data with healthcare providers you choose to schedule through the services.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "We may share information about you with Internet Brands' subsidiaries and affiliates.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "If that is the case, both Internet Brands and the partner will receive personal information you provide.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "We may share personal information about you for any other purpose(s) disclosed to you at the time we collect your information or with your consent.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "By visiting our sites and services, you consent to the placement of cookies and beacons in your browser and HTML-based emails in accordance with this privacy policy and our Cookie Policy.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Do Not Track We do not currently actively respond to \"Do Not Track\" browser signals or mechanisms that indicate a request to disable online tracking of individual users who use our sites and services.",
+   "polarity": "harmful",
+   "label": "Privacy: ignores Do Not Track",
+   "split": "test"
+  },
+  {
+   "text": "Any personal information you submit in the course of interacting in these public activities can be read, collected, or used by other users.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Please be aware that certain records and information will be retained for specific purposes such as legal, payment, accounting, technical, dispute resolution, enforcement of our sites.",
+   "polarity": "harmful",
+   "label": "Privacy: does not say how long data is kept",
+   "split": "test"
+  },
+  {
+   "text": "to use anonymized personal information to run (or authorize third parties to run) statistical research on individual or aggregate trends.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Miami New Times may tailor advertisements on the Site to a user's apparent interests, based on user browsing activity.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Also, your viewing activity on the Site may be shared with advertising networks, so that they can display ads for you, which they believe will interest you, on other sites, not affiliated with Miami New Times.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "We may also use personally identifiable information to send you advertisements, promotions and information about the Site, Miami New Times and our partners.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "We occasionally have third party agents, subsidiaries, affiliates and joint ventures that perform functions on our behalf, such as credit card processing, shipping or stocking orders, providing customer service, data combination, etc.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "We may maintain and use automatic information to track how our visitors use the Site, study traffic patterns, and run and maintain the site, and we and other third parties may provide targeted advertisements to you based on such data.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "We may share aggregated data with our advertisers and other marketing and business partners.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "We collect your personal information in an effort to provide you with a superior customer experience and, as necessary, to administer our business.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Your personal information also allows us to communicate with you about special offers, promotions, and other marketing programs and news that may be of interest to you.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Applying for a Barnes & Noble MasterCard When you apply for a Barnes & Noble MasterCard, you will need to submit personal information directly to the issuer of the MasterCard.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "In addition, we disclose certain personal information to the issuer of the MasterCard in connection with the administration of the Barnes & Noble MasterCard program.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "These or related applications may also allow you to provide information directly to social networking sites including information about your purchases, physical location, or comments.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Signing up for promotional communications or using Invite-a-Friend or NOOK Press Collaborator emails If you sign up to receive promotional communications or notifications from us, we may ask you to provide personal information so that we can provide these to you.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "The NOOK Press Collaborator feature may allow you to share your content with other NOOK Press account holders so that they may view and comment upon your work.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Cookies Like many online retailers, we and/or our third party providers use cookies to recognize you as you use or return to the Barnes & Noble Websites.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Pixel tags or clear GIFs We may use sensing technologies that use pixel tags or clear GIFs (which are also called web beacons).",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "We may also collect information regarding the links within such marketing materials that you click on and purchase statistics regarding items you buy following receipt of such marketing.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "These third party service providers will place cookies on your computer to collect information such as how you were referred to the Barnes & Noble Website, how you navigate around the Barnes & Noble Website, what you purchase and what traffic is driven by various marketing methods.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "They use this information to provide you with advertisements that are customized to your particular preferences, including for companies that are not affiliated with us.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "If you would like to learn more about the third party advertisers that may be aware of the fact that you visit Barnes & Noble Websites, and to understand your opt-out choices, please click here.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "This information may be used to provide certain device or application functionality or to offer, provide and improve products and services.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Barnes & Noble uses your personal information across our enterprise to provide you with a superior customer experience and, as necessary, to administer our businesses.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Barnes & Noble shares your personal information with: Other entities within the Barnes & Noble enterprise .",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "We provide personal information to our partners that provide product and service offerings or technologies that we think may be of interest to you.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "We provide personal information to third party service providers, subcontractors, and agents that work under contract on our behalf to provide certain services.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "We disclose only the information that is necessary to make these third party programs work and to support your membership in them.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "We require such entities to obtain your consent before we provide them with this information, which they usually do as part of their own membership or participation rules.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "We work with certain third party entities to help them administer their own membership or rewards programs by providing them with purchasing information about their customers who make purchase from Barnes & Noble.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Credit card transactions are handled by third party financial institutions and their vendors and contractors who receive credit card numbers and other personal information from us to verify the credit card numbers and process transactions.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "If you provide information in connection with such co-branded service or feature, that information may be shared between Barnes & Noble and the third party.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "We may share your information with your college or university, lenders or other providers in order to process payments if you choose these payment methods.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Additionally, certain Barnes & Noble Websites and Apps may collect information regarding your interaction with certain content as described in this Privacy Policy, and we may share such information with your college or university so that they may administer and improve their programs and services.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Certain Digital Content providers We may need to forward your name, email address, IP address, and shipping or billing address to certain content providers in connection with your order.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "The content providers may share this information with the applicable publisher and circulation auditors, and may use this information to fulfill your order and for other purposes.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Please be advised that Barnes & Noble may archive information it collects on its community and visitors.",
+   "polarity": "harmful",
+   "label": "Privacy: does not say how long data is kept",
+   "split": "test"
+  },
+  {
+   "text": "Although Barnes & Noble Websites are currently unable to respond to Do Not Track Signals, you may opt out of tracking activities bv following the instructions in this Privacy Policy to opt out of IBM Coremetrics and behavioral advertising.",
+   "polarity": "harmful",
+   "label": "Privacy: ignores Do Not Track",
+   "split": "test"
+  },
+  {
+   "text": "How We Use the Information We Collect We and our service providers use the information about you we collect for a variety purposes including to: Customize the content and advertising you see and recognize you as a previous visitor.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Tell you about offers we think you will value.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "How Do We Share Information- We may share anonymous or aggregated information about you in a way that does not identify you personally as we deem appropriate.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "With business partners that co-sponsor promotions we offer or provide a tool or feature accessible through our Services.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Within the family of Meredith sites and Services and with other Meredith businesses.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "With our service providers, select third-party advertisers and other companies involved in the delivery of the advertising you see online and offline.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Third-party providers and advertisers featured on, or linked to or from, our Services may also gather information through processes that we don't control and subject to their own separate privacy policies, which may differ from ours.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Meredith or third-party contractors we engage may collect certain information automatically when you use our Services, including but not limited to:",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Web pages, content and advertisements you view and links you click on while navigating within our Services;",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Information about your interactions with our video or audio content, such as the type of content accessed via our Services;",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Information about your interactions with our email messages, such as the links you click on and whether you open or forward a message, the date and time of these interactions and the device you use to read emails;",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "The site you visited before visiting a Meredith website and the site you visited after visiting a Meredith website;",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Search terms you enter using our Services or on a referral site;",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Unique identifiers, including mobile device identification numbers, that can identify the physical location of devices in accordance with applicable law;",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Your device type, screen size, browser type, language, plug-ins, Internet domain, TCP configuration parameters, operating system and versions of installed software;",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Information collected through cookies, web beacons and other tracking technologies (see additional descriptions of these terms below).",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "You can set your browser to accept or reject most cookies, or to notify you when a cookie is set.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "When one of their ads appears on our Services, it may contain a web beacon that will record your exposure to the ad, read certain cookies on your browser, and forward this information to one or more operators of third-party websites or other online service on which you may have registered.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "How We Use The Information We Collect: Our primary goal in collecting information is to provide you with a customized experience when using our Services and to make them more valuable to you.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Because our Services are supported by advertising, we also use the information we collect to help us and advertisers efficiently reach consumers who are most likely to be interested in particular products and services.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "In addition, we and our authorized service providers generally use other information that we or they collect about you to:",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Customize the content you see when you use our Services and other services as you navigate online;",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Help recognize your browser as a previous visitor and save and remember any preferences that may have been set while your browser was visiting one of our Services;",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Recognize the same users as they access online or mobile services using multiple browsers or devices and deliver to them appropriate interest-based content and advertising;",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Provide you with special offers, promotions and information from companies within our corporate family, and select third parties in accordance with applicable law;",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Control the display of advertising and develop and deliver advertising tailored to your interests, including advertising that you see on our Services, advertising you see on third-party websites and email programs, and offers and advertising you may receive offline;",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "If you use our Services to sign up for special email offers from third-party advertisers, we will also share your email address and any other information you provided with your request with the advertisers you selected.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "We share with each of these Provider Partners such information as is useful or necessary to provide you with the services we offer through that Provider Partner.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "We reserve the right to share with these companies any information we collect about you and/or authorize them to collect information from you directly for purposes consistent with this Privacy Policy.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "We may use aggregated information or other anonymous information and disclose it to third parties as we deem appropriate.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Keep in mind that any information that you choose to post to blogs, discussion forums, or other community or social networking services that we offer can be seen, collected and used by anyone who has access to the applicable service.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Adobe and Krux are other third parties we engage to track and analyze usage and browsing patterns of our users.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "As it is not yet finalized, we do not currently respond to browser do-not-track signals.",
+   "polarity": "harmful",
+   "label": "Privacy: ignores Do Not Track",
+   "split": "test"
+  },
+  {
+   "text": "By using the Services, you consent to this transfer, processing, storage and access of your personally-identifying information in and/or outside of the jurisdiction in which you reside.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "You can access various social network posting and sharing tools through our Services that are operated by third parties, including a \"share\" button that allows you to post links to content and features that you believe will be of interest to others on your social network pages.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "We may also share some of your entry information with third parties or the public in connection with the administration of the promotion, such as winner selection and prize fulfillment, and as permitted by the promotion's official rules, such as on a winners' list.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Analyze, operate and improve our Services, and fulfill your requests for products, services, and information, including to send you email and electronic newsletters;",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "When you use the Services, we use persistent and session cookies and other tracking technologies to: (a) store your username and password; (b) analyze the usage of our sites and Services; (c) customize the Services to your preferences; and (d) control the advertising displayed by the Services.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Third parties whose products or services are accessible or advertised via the Services may also place cookies or other tracking technologies on your computer, mobile phone, or other device to collect non-personal information about your use of the Services.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "If you access the Services through a mobile device and you do not want your device to provide us with location-tracking information, you can disable the GPS or other location-tracking functions on your device, provided your device allows you to do this.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Our use and disclosure of aggregated, anonymized, and other non-personal information is not subject to any restrictions under this Privacy Policy, and we may disclose it to others without limitation for any purpose.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "We may rent, sell, or share your information with non-affiliated third parties: (a) in order to provide services or products that you have requested; (b) when we have your permission; or (c) as described in this Privacy Policy.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "We may share your information with any Affiliate or agent of Tribune Company in order to provide the Services or advertising or to communicate with you on our behalf.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "When you sign up to participate in a contest or sweepstakes, your information may also be provided to our sweepstakes or contest advertisers, operators, or sponsors and the use of that information will be also governed by those advertisers, operators, or sponsors privacy policies or practices.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "We may share your information with third-party advertisers and advertising networks or others with which we have a contractual relationship.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "We use customer contact information from the registration form to send the user information about our company.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "We may disclose personal information if we believe that an emergency involving danger of death or serious injury to any person requires disclosure of communications or justifies immediate disclosure of records.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "We may use third-party software that tracks traffic directed to CoffeeReview.com from affiliate Web sites and the purchases that result from this traffic.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Chase Paymentech may also use your information to contact you about other Chase Paymentech offerings and services.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "In addition, Chase Paymentech may share certain Customer Data (but not Cardholder Data) with its affiliated entities for marketing purposes and other business purposes.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Remember how you have customized your use of this site, such as your preferred currency and time zone Collect and compile anonymous, aggregated information for statistical and evaluation purposes to help us understand how users use the website and help us improve the structure of our website.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Display the most appropriate banners to Chase Paymentech and third party offerings based on your activity while on Chase Paymentech's site.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Chase Paymentech may hire third party companies to track and report performance of advertising and marketing campaigns to and from Chase Paymentech and third party web sites.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "These companies may also set cookies and use related technology, such as tracking pixels.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "In addition to cookies which send information to us, we also use cookies which collect information and send it to third parties.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "if you contact us, we may keep a record of that correspondence;",
+   "polarity": "harmful",
+   "label": "Privacy: does not say how long data is kept",
+   "split": "test"
+  },
+  {
+   "text": "TYPES OF INFORMATION WE COLLECT Our goal is to collect and use information to deliver effective and personalized services which take your interests and preferences into account, as well as for our legitimate business needs and interests.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "You agree that we may share your video viewing with, or obtain information about your video viewing from, analytics providers and advertising partners and third-party social media sites for two years or until you withdraw your consent.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "personalize the services offered by us or our affiliates, including providing personalized advertising on some online services (see options for opting-out of personalized advertising here);",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "send you newsletters and information about products, services and promotions relating to us and/or our business partners or other organizations that we work with, in accordance with your communication preferences.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Please see Your Rights and Choices for further information about how you can control these updates;",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Note that you may be registered for different accounts with different NBCUniversal group companies or in different areas of our business.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Please visit the account settings page of the applicable online service if you wish you \"de-register\" from your account or for more information, or e-mail privacy@nbcuni.com.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "For information about this and your choices see Cookies and Tracking Technologies.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "These parties are provided only with the personal information or other information they need to perform their functions and can only use and disclose that information as is necessary to perform the services on our behalf, or to comply with legal requirements.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "For Mobile Apps: In addition, in relation to Mobile Apps we may share your usage and personal information with operating system, platforms providers, carriers and/or other mobile apps either operated by us or third parties.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Information we share with advertisers (including Targeted Advertising) Some online services, including Mobile Apps, may be supported with advertising, and collect data to help the online services serve ads.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "They might also obtain information about other applications that you have downloaded to your mobile device, the mobile websites you visit and other information about you or your device in order to analyze and serve anonymous targeted advertising on the online services and elsewhere.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "NBCUniversal does not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed.",
+   "polarity": "harmful",
+   "label": "Privacy: ignores Do Not Track",
+   "split": "test"
+  },
+  {
+   "text": "We may also work with consumer data resellers that buy and/or sell information to other companies for multiple purposes including offering products and services that may interest you.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "We retain indefinitely all the information we gather about you in an effort to make your repeat use of our website more efficient, practical, and relevant.",
+   "polarity": "harmful",
+   "label": "Privacy: retains data indefinitely",
+   "split": "test"
+  },
+  {
+   "text": "We may also use the information we gather to inform you of other products or services available from the Science Website or to contact you about your opinion of current products and services or potential new products and services that may be offered.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "We may use your contact information in order to send you e-mail, postal mail, or other communications regarding updates at the Science Website, such as Job Alerts, newsletters, new opportunities, and additional listings which may be of interest to you.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "We may also use it to send you information about third-party products and services that match your interests and preferences, if you opt in for this communication.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "We do not release any of your contact information to third parties unless we have your permission.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "We may share information, such as your IP address, with third parties as might be required for technical purposes, such as facilitating user discovery and access via web search engines.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "For example we may use data we have about you (such as the interests and preferences you have expressed) to determine whether you might be interested in the products or services of a particular third party.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "The AAAS may also share aggregated anonymous information about visitors to Science websites with its clients, partners, and other third parties so that they may understand the kinds of visitors to the Science websites and how those visitors use the site.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "If you allow your resume to be searchable, then all parties with access to our searchable resume database (or copies thereof) will have access to your resume.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "USE OF COOKIES We use \"cookies\" to help personalize and maximize your online experience.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "When you return to the Science Website, the information you previously provided can be retrieved, so you can easily use the features that you customized.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "You may provide this information directly to us or you may choose to register using your Facebook account in which case you would authorize us to access certain Facebook profile information including your first name, last name, gender, birth date and email address.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Use of your information by other companies We share user information with other companies for various reasons.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Service Providers : We may share all of the types of information we collect with vendors who provide services (such as voice transcription, email and SMS messaging, and payment processing), conduct surveys, and run sweepstakes on our behalf.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "We sometimes allow these ad companies to collect such information when you use our sites and apps to enable them to display targeted ads to you.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Analytics Companies : We allow analytics companies to use tracking technologies to collect information about our users' computers or mobile devices and their online activities.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Certain versions of our App have an \"Opt out of Tracking\" setting, which permits you to opt out of being tracked by third party analytics companies.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Aggregated Information : We may publicly disclose aggregated information about our users, such as the total number of our users and their overall demographics.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "Tracking technologies We, as well as other companies, use tracking technologies to collect and store data about your computer or mobile device and your activities on our sites and apps.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties",
+   "split": "test"
+  },
+  {
+   "text": "We do this to store your preferences and track your use of our sites.",
+   "polarity": "harmful",
+   "label": "Privacy: collects data for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Ad companies place cookies on your computer to track your activities across various sites so that they can display targeted ads.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Ad companies use pixel tags to measure the number of ads displayed and their performance (such as how many people clicked on an ad).",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "Ad companies use device IDs to track your use of the app, track the number of ads displayed, measure ad performance and display ads that are more relevant to you.",
+   "polarity": "harmful",
+   "label": "Privacy: shares data with third parties for advertising",
+   "split": "test"
+  },
+  {
+   "text": "However, we do not recognize or respond to browser-initiated DNT signals, as the Internet industry is currently still working toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT.",
+   "polarity": "harmful",
+   "label": "Privacy: ignores Do Not Track",
+   "split": "test"
+  },
+  {
+   "text": "Please note that (1) we may retain your personal information in back-up storage after deactivation, and (2) we are not responsible for removing information about you from the database of any third parties to whom you previously authorized us to share your personal information.",
+   "polarity": "harmful",
+   "label": "Privacy: does not say how long data is kept",
+   "split": "test"
+  }
+ ],
+ "protective": [
+  {
+   "text": "The research firm will be bound by its contract with Tulsaworld.com to use your information strictly for Tulsaworld.com research purposes, to keep your information confidential, and to adequately secure or destroy its records of your information when the research is complete.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "You can, through the options in your Web browser, choose to accept all cookies, choose to reject all cookies or choose to receive notification when a cookie is being delivered so that you can make a decision whether to accept each cookie on a case-by-case basis.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "Note: If we send you e-mail on behalf of another company, your personally identifiable information is not disclosed to that company unless you purchase a product or service from that company in which case it may need your information to fulfill your purchase.",
+   "polarity": "protective",
+   "label": "Privacy: states it does not share",
+   "split": "test"
+  },
+  {
+   "text": "We may use a third party service provider to manage or send emails on our behalf, but that third party is only authorized to use your information as necessary to send our email to you and it is not authorized to sell or transfer your information.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "All e-mails sent to you from Tulsaworld.com will allow to opt out of any further e-mail from us.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "Security technologies Tulsaworld.com uses industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "We have implemented appropriate security measures in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be secure all of the time.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "Making corrections to your information Upon request, you may review all information that we maintain in your record, including unique identifier , contact information (name, address, phone number, e-mail), or any other information we may keep in your record.",
+   "polarity": "protective",
+   "label": "Privacy: lets you access or delete your data",
+   "split": "test"
+  },
+  {
+   "text": "What information is covered by this privacy policy- What isn't- All information you provide directly to Tulsaworld.com is covered under this privacy policy.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "User registration with MediaNews Web sites is completed and membership activated upon clicking a link e-mailed to the address provided in registration.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "If such information is gathered for a MediaNews survey, no PIN is released and is reported or used only in aggregate form.",
+   "polarity": "protective",
+   "label": "Privacy: states it does not share",
+   "split": "test"
+  },
+  {
+   "text": "OPTING-OUT If you do not wish to share your PIN, you always have the option to not provide the information or use the MediaNews Web sites that require it.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "Review Update Your PIN A registered user of MediaNews Web sites may review and change his or her PIN and/or e-mail preferences by clicking on the Manage Account link after signing in.",
+   "polarity": "protective",
+   "label": "Privacy: lets you access or delete your data",
+   "split": "test"
+  },
+  {
+   "text": "SECURITY MediaNews uses procedures to safeguard and help prevent unauthorized access to the information collected on the MediaNews Web sites.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "At that time you have the opportunity to opt-in to e-mail newsletters and alerts and have e-mail offers sent to you on behalf of MediaNews advertisers, however, you can update your preferences at a later time.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "Parents can consent to the collection and use of their child's personal information without consenting to the disclosure of the information to third parties.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "Whether you are a subscriber or a visitor to our site, we assure you that we do not collect personal information from you unless you provide it to us .",
+   "polarity": "protective",
+   "label": "Privacy: states it does not collect",
+   "split": "test"
+  },
+  {
+   "text": "Under no circumstances do we collect any personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, health, or sex life.",
+   "polarity": "protective",
+   "label": "Privacy: states it does not collect",
+   "split": "test"
+  },
+  {
+   "text": "Information We Gather from You Personal Information We do not collect any personal information from a visitor to our sites unless that visitor explicitly and intentionally provides it.",
+   "polarity": "protective",
+   "label": "Privacy: states it does not collect",
+   "split": "test"
+  },
+  {
+   "text": "In order to try to minimize this risk, we encrypt all information that you submit in ordering of our premium products using the Secure Sockets Layer (SSL) protocol.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "We do not share or sell email addresses gathered on the Site.",
+   "polarity": "protective",
+   "label": "Privacy: states it does not share",
+   "split": "test"
+  },
+  {
+   "text": "Our Security Precautions Strong precautions are taken to protect the information of the users of our Site.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "We take credit card information security seriously and use a variety of technical solutions to make shopping safe at our Site.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "Furthermore, your information is encrypted and is protected utilizing the industry standard Secure Sockets Layer (SSL) encryption software.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "In addition, all of the information of our Site's users, including the sensitive information mentioned above, is maintained in locked, secure facilities, whether on CMCs premises or those of the server providers with which we contract.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "How You Can Access and Update Your Personal Information and other Account Information We give you the opportunity to modify information you have provided to us at anytime by logging into the system and navigating to your account and selecting those portions of your account you would like to update.",
+   "polarity": "protective",
+   "label": "Privacy: lets you access or delete your data",
+   "split": "test"
+  },
+  {
+   "text": "reddit stores the IP addresses associated with specific posts, comments, and private messages for 90 days after they are made or sent.",
+   "polarity": "protective",
+   "label": "Privacy: states a retention period",
+   "split": "test"
+  },
+  {
+   "text": "We remove personally identifiable data from this information after 90 days.",
+   "polarity": "protective",
+   "label": "Privacy: states a retention period",
+   "split": "test"
+  },
+  {
+   "text": "For instance, we keep IP addresses for 90 days in order to investigate issues with our site, track and block suspected spammers, and otherwise maintain the integrity of the community.",
+   "polarity": "protective",
+   "label": "Privacy: states a retention period",
+   "split": "test"
+  },
+  {
+   "text": "While advertisers may target their ads to the topic of a given subreddit or based on your IP address, we do not sell or otherwise give access to any information collected about our users to any third party.",
+   "polarity": "protective",
+   "label": "Privacy: states it does not share",
+   "split": "test"
+  },
+  {
+   "text": "reddit does not allow other parties to collect personally identifiable information from users on reddit.",
+   "polarity": "protective",
+   "label": "Privacy: states it does not share",
+   "split": "test"
+  },
+  {
+   "text": "However, the posts and content you made during your tenure as a reddit user will not be automatically deleted as part of the account removal process, though your username will be publicly disassociated with all posts.",
+   "polarity": "protective",
+   "label": "Privacy: lets you access or delete your data",
+   "split": "test"
+  },
+  {
+   "text": "account deletion You may choose to delete your reddit account at any time.",
+   "polarity": "protective",
+   "label": "Privacy: lets you access or delete your data",
+   "split": "test"
+  },
+  {
+   "text": "This option is only an authentication tool and does not transmit any new personal information to or from reddit, or give reddit access to details of subsequent actions taken on these sites.",
+   "polarity": "protective",
+   "label": "Privacy: states it does not share",
+   "split": "test"
+  },
+  {
+   "text": "As part of this, we limit employee access to user data.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "All stored IP addresses, except the account creation IP address, are deleted after 90 days.",
+   "polarity": "protective",
+   "label": "Privacy: states a retention period",
+   "split": "test"
+  },
+  {
+   "text": "We do not associate your devices unique advertising identifier with your user account, even if you are signed in on an app.",
+   "polarity": "protective",
+   "label": "Privacy: states it does not collect",
+   "split": "test"
+  },
+  {
+   "text": "Deleting an app If you delete a reddit app from your mobile device, any app-specific information stored on your device will be deleted from your device.",
+   "polarity": "protective",
+   "label": "Privacy: lets you access or delete your data",
+   "split": "test"
+  },
+  {
+   "text": "Social media A reddit app may also allow you to post to social media, including Facebook or Twitter, but reddit will not connect to the servers of those services, share information with those services, or post on your behalf.",
+   "polarity": "protective",
+   "label": "Privacy: states it does not share",
+   "split": "test"
+  },
+  {
+   "text": "Also as discussed above in Section 2(B), if you wish to request updates or changes to your information or your preferences regarding receiving future promotional messages from us, you may contact our Privacy Policy Coordinator.",
+   "polarity": "protective",
+   "label": "Privacy: lets you access or delete your data",
+   "split": "test"
+  },
+  {
+   "text": "Last Revised: December 23, 2013 To jump to our Privacy Policy, click here To opt-out of Third Party Tracking Technologies, click here To opt-out of Third Party Sharing, click here If you have a complaint about another user, click here Kids and parents click here",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "Registered Users and Members can change their profile information at any time and can control how the service communicates with them.",
+   "polarity": "protective",
+   "label": "Privacy: lets you access or delete your data",
+   "split": "test"
+  },
+  {
+   "text": "With the exception of notifying friends about content the user has created, a user's email address is not shared or publicly displayed on the JibJab Sites or within the JibJab service.",
+   "polarity": "protective",
+   "label": "Privacy: states it does not share",
+   "split": "test"
+  },
+  {
+   "text": "You may prevent JibJab messages from being sent to any email address you control by sending an email request to support@jibjab.com or by visiting and adjusting your email preferences in My Account.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "Correcting/Updating or Removing Information JibJab users may modify or remove any of their personal information at any time by logging into their account and accessing the \"My Account\" section.",
+   "polarity": "protective",
+   "label": "Privacy: lets you access or delete your data",
+   "split": "test"
+  },
+  {
+   "text": "Security JibJab user accounts are secured by user-created passwords and, in some cases, third-party sign-on services (e.g., Facebook Connect).",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "We use commercially reasonable measures to protect user information that is stored within our database, and we restrict access to user information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "We urge you to keep your username, password, and other account access information in a safe place and not to divulge it to anyone.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "If you wish to review or delete any profile information that you have provided us regarding a child, or ask that we stop using such information, you may do so at any time through the settings area of your account or by contacting us using the information below.",
+   "polarity": "protective",
+   "label": "Privacy: lets you access or delete your data",
+   "split": "test"
+  },
+  {
+   "text": "UpToDate does not sell or otherwise share subscribers' or website visitors' personal information with anyone.",
+   "polarity": "protective",
+   "label": "Privacy: states it does not share",
+   "split": "test"
+  },
+  {
+   "text": "Subscriber Information UpToDate never automatically collects any information that specifically identifies you such as your name, address, or e-mail address.",
+   "polarity": "protective",
+   "label": "Privacy: states it does not collect",
+   "split": "test"
+  },
+  {
+   "text": "Your credit card or debit card number is collected via a secure transmission.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "You may also have the opportunity to opt-in to receive special Promotions or offers from our third party advertisers, sponsors or promotional partners (\"Advertisers\") as a result of your use of the Site in connection with many of these types of Promotions.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "However, even if you exercise your opt-out rights above, we, or our Parent Companies or Affiliates, may continue to contact you for the other purposes described in the \"Use of Information\" Section above, such as for maintenance and administrative purposes.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "If you delete Tracking Technologies using the controls in your Web browser (a process described below) after opting out, you may have to opt out again to re-establish your opt-out preferences.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "You can prevent the use of certain Tracking Technologies (other than Flash cookies) by using the controls in your Web browser.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "You can choose to have the Device you use to access the Site warn you each time a cookie or most other Tracking Technologies is being set (other than Flash cookies), or you can choose to turn off such warnings.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "This Site is committed to complying with the Self-Regulatory Principles for Online Behavioral Advertising.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "The user may terminate the service at any time by using the unsubscribe command in any text message from Latin Posts or by sending a text message to Latin Posts that says \"STOP\", \"END\", \"CANCEL\", \"REMOVE\", \"UNSUBSCRIBE\" or \"QUIT\".",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "Latin Post will terminate the user's registration for the most recent wireless service sent to the user.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "We will not share any Personal Information with Advertisers or other third party marketers unless you opt-in to such disclosure.",
+   "polarity": "protective",
+   "label": "Privacy: states it does not share",
+   "split": "test"
+  },
+  {
+   "text": "Generally, we do not sell, rent, lease or disclose your Personal Information to third parties, except if you consent to such disclosure or as described in this Privacy Policy.",
+   "polarity": "protective",
+   "label": "Privacy: states it does not share",
+   "split": "test"
+  },
+  {
+   "text": "Generally, you may review, update or delete certain Information collected by the Site by clicking \"Account\" on the homepage to sign in to your Site account with your User ID to change, update or deactivate your Personal Information.",
+   "polarity": "protective",
+   "label": "Privacy: lets you access or delete your data",
+   "split": "test"
+  },
+  {
+   "text": "However, Personal Information that is necessary to check eligibility, such as date of birth or age, cannot be deleted, but may be modified with sufficient verification of the correct information.",
+   "polarity": "protective",
+   "label": "Privacy: lets you access or delete your data",
+   "split": "test"
+  },
+  {
+   "text": "We conduct financial transactions via secured transmissions but may not always secure other parts of the Site.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "We also limit access to the Site by our own employees to those individuals who are authorized for the proper handling of such information and any employee found violating our standards of security and confidentiality will be subject to our disciplinary processes.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "While no data transmission over the Internet is 100% secure from intrusion, we maintain commercially reasonable physical, electronic and procedural safeguards to protect your Information.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "Further, if you delete, reject, disable or turn off Tracking Technologies, you may not have access to certain features of the Site and some of our other services may not function properly.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "Except as described below, we will not share your name or information outside the Smithsonian unless you affirmatively authorize us to do so by opting-in.",
+   "polarity": "protective",
+   "label": "Privacy: states it does not share",
+   "split": "test"
+  },
+  {
+   "text": "Please use the contact specified in the email so that we can remove you from the list that contains your name.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "If you opt-in, you may receive correspondence from these organizations on programs, products or services that might interest you.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "Any further sharing or disclosure requires your consent.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "The Smithsonian requires credit card processing be secured based on compliance with Payment Card Industry (PCI) standards.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "Security The Smithsonian takes reasonable steps to design and manage our Websites' technology to ensure that its information technology systems, applications, and information technology infrastructure are secure.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "As appropriate and feasible, the Smithsonian monitors network traffic to identify unauthorized attempts to access, upload, or change information or otherwise cause damage.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "USA.gov doesn't collect personal information when you visit our web site unless you choose to provide that information.",
+   "polarity": "protective",
+   "label": "Privacy: states it does not collect",
+   "split": "test"
+  },
+  {
+   "text": "Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits.",
+   "polarity": "protective",
+   "label": "Privacy: states a retention period",
+   "split": "test"
+  },
+  {
+   "text": "If you don't want to accept cookies, you can edit your browser's options to stop accepting persistent cookies or to prompt you before accepting a cookie from the websites you visit.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "Social Media Sites While USA.gov manages presence on social media sites (e.g., Facebook, Twitter, YouTube) in order to share government information and engage with the public, we do not collect any Personally Identifiable Information through those sites.",
+   "polarity": "protective",
+   "label": "Privacy: states it does not collect",
+   "split": "test"
+  },
+  {
+   "text": "We also do not use personal information made available by the user to these third-party sites.",
+   "polarity": "protective",
+   "label": "Privacy: states it does not collect",
+   "split": "test"
+  },
+  {
+   "text": "Site Security For site security purposes and to ensure that this service remains available to all users, this government computer system employs commercial software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "We do not share or sell visitor data for the purposes of advertising, marketing, or any other commercial purpose.",
+   "polarity": "protective",
+   "label": "Privacy: states it does not share",
+   "split": "test"
+  },
+  {
+   "text": "If you choose to provide us with personal information like filling out a Contact Us form, with an e-mail address and ZIP code, and submitting it to us through the website we use that information to respond to your message, and to help get you the information you requested.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "REVIEW AND ACCESS You will have the ability to access the information that we have collected about you.",
+   "polarity": "protective",
+   "label": "Privacy: lets you access or delete your data",
+   "split": "test"
+  },
+  {
+   "text": "You will have an opportunity to correct, update or modify this information.",
+   "polarity": "protective",
+   "label": "Privacy: lets you access or delete your data",
+   "split": "test"
+  },
+  {
+   "text": "CHOICE/OPT-OUT If we ever send you information by e-mail concerning new products or services that you did not expressly request, we will provide you with an e-mail address by which you may request no future notices.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "SECURITY All information described above is stored on restricted database servers.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "LIQUOR.COM WILL NOT DISCLOSE YOUR PERSONAL INFORMATION TO ANY THIRD PARTY WITHOUT YOUR CONSENT, EXCEPT TO A THIRD PARTY AS REQUIRED TO HELP US DISTRIBUTE OUR EMAIL PUBLICATION.",
+   "polarity": "protective",
+   "label": "Privacy: states it does not share",
+   "split": "test"
+  },
+  {
+   "text": "We provide you reasonable access to your personal information and the ability to review, correct, or delete it.",
+   "polarity": "protective",
+   "label": "Privacy: lets you access or delete your data",
+   "split": "test"
+  },
+  {
+   "text": "You may correct or update your account information at any time by logging on the site onto which you are registered and navigating to your account.",
+   "polarity": "protective",
+   "label": "Privacy: lets you access or delete your data",
+   "split": "test"
+  },
+  {
+   "text": "You can manage certain aspects of information collection and use by going to the settings of your mobile device and reviewing the permissions of each application.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "You may stop further use of your geo-location by visiting your device's settings for the relevant application.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "Protecting your privacy and security is important and we also take reasonable steps to verify your identity before granting access to your data.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "We will retain your personal information for the period necessary to fulfill the purposes outlined in this privacy policy, unless a longer retention period is required or permitted by applicable law.",
+   "polarity": "protective",
+   "label": "Privacy: states a retention period",
+   "split": "test"
+  },
+  {
+   "text": "After you request such communications, you may \"opt out\" of receiving them by using one of the following methods: Select the email \"opt out\" or \"unsubscribe\" link, or follow the opt-out instructions included in each email communication.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "Opting Out of General or Promotional Communications General communications provide information about products, services, and/or support and may include special offers, new product information, or invitations to participate in market research.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "When you enter payment information we encrypt the transmission of that information using SSL technology and do not store it on our systems.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "To view and change the personal information that you directly provided to us, you can return to the web page on our site where you originally submitted the data and follow the instructions on that web page.",
+   "polarity": "protective",
+   "label": "Privacy: lets you access or delete your data",
+   "split": "test"
+  },
+  {
+   "text": "Opting Out of Requested Communications Requested communications include, for instance, email newsletters or software updates that may be expressly requested by you or which you consented to receive.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "We do not and cannot use cookies or IP address tracking to retrieve personally identifiable information from your computer.",
+   "polarity": "protective",
+   "label": "Privacy: states it does not collect",
+   "split": "test"
+  },
+  {
+   "text": "To register your preferences or choices, or to opt out of behavioral advertising offered by participants in these programs, visit http://www.networkadvertising.org or http://www.aboutads.info.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "E-Commerce and Our Secure Server We use reasonable efforts to protect your personally identifiable information from unauthorized use or disclosure.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "If your personally identifiable information changes, you may correct and/or update it by sending us an email.",
+   "polarity": "protective",
+   "label": "Privacy: lets you access or delete your data",
+   "split": "test"
+  },
+  {
+   "text": "Protecting the privacy and security of your personal information is a priority at Barnes & Noble, and we believe that a single, comprehensive privacy policy that is straightforward and clear is in the best interests of our customers and our businesses.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "Security: We follow security standards, processes and procedures that are designed to protect your personal information.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "The issuer is contractually obliged to maintain the confidentiality and security of the personal information we provide and is restricted from using such information in any way not expressly authorized by us.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "These third party service providers may only use your personal information to perform services for us and may not share your personal information with anyone else, or use it for any other purpose, except on an aggregated, non-personally identifiable basis.",
+   "polarity": "protective",
+   "label": "Privacy: states it does not share",
+   "split": "test"
+  },
+  {
+   "text": "We do not allow third party service providers to collect your credit card information, e-mail address or password information.",
+   "polarity": "protective",
+   "label": "Privacy: states it does not share",
+   "split": "test"
+  },
+  {
+   "text": "This information will help us to better serve you and provide you with more personalized information and product offerings.",
+   "polarity": "protective",
+   "label": "Privacy: states it does not share",
+   "split": "test"
+  },
+  {
+   "text": "To disable the Google Analytics cookie and other third party web analytics service provider cookies, you can choose to have your browser notify you when cookies are being written to your computer or accessed, or you can disable cookies entirely.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "Protecting the privacy and security of your personal information is a priority at Barnes & Noble.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "We take significant and appropriate security measures, including physical, technological and procedural measures, to help to safeguard your personal information and to prevent unauthorized access and disclosure.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "We want you to feel confident whenever you visit us in our stores, on the Barnes & Noble Websites, or use Barnes & Noble Devices or Apps.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "For Barnes & Noble Booksellers : At any time, a customer may choose to opt-out of the receipt of any promotional communications by clicking on the opt-out link provided at the bottom of each email and following the instructions, or by emailing our Customer Service Department by clicking here.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "For Barnes & Noble College Booksellers : At any time, a customer may choose to opt out of the receipt of any promotional communications by clicking on the opt out link provided at the bottom of each email and following the instructions.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "If you do not have a barnesandnoble.com account, you may opt out of the receipt of such communications by selecting the link at the bottom of any promotional email communication and following the instructions.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "If no opt out link exists reply to the email with the word \"Remove\" in the subject line, or by e-mailing our Customer Service Department by clicking here.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "For Sterling Publishing : If, at any time, you wish to no longer receive ENewsletters from Sterling Publishing Co., Inc., Lark Crafts, and/or FlashKids.com, please click on the link for opt out instructions contained at the bottom of each ENewsletter.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "You can change your personal information and your communication preferences when you follow this link.",
+   "polarity": "protective",
+   "label": "Privacy: lets you access or delete your data",
+   "split": "test"
+  },
+  {
+   "text": "For Invite-a-friend emails : You may choose to opt out of receiving communications from other of our customers through Invite-a-Friend features by calling our Customer Service Center at 1-800-THE-BOOK (1-800-824-2665).",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "For NOOK Press collaborator emails : You may choose to opt out of receiving NOOK Press collaborator emails by contacting NOOK Press Customer Service at nookpress@nook.com.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "Online Community Users Barnes & Noble provides you with the ability to access, correct, change or request deletion of the personal information in your community profile(s) at any time by following the instructions below.",
+   "polarity": "protective",
+   "label": "Privacy: lets you access or delete your data",
+   "split": "test"
+  },
+  {
+   "text": "You may access, correct or change the personal information in your community profile(s) on Lark Crafts at any time.",
+   "polarity": "protective",
+   "label": "Privacy: lets you access or delete your data",
+   "split": "test"
+  },
+  {
+   "text": "You may also access, correct or change the personal information in your community profile(s) on SparkNotes.com at any time, except to change your username.",
+   "polarity": "protective",
+   "label": "Privacy: lets you access or delete your data",
+   "split": "test"
+  },
+  {
+   "text": "Data retention policy We will retain your information for as long as your account is active or as needed to provide you with services.",
+   "polarity": "protective",
+   "label": "Privacy: states a retention period",
+   "split": "test"
+  },
+  {
+   "text": "Accessing your information You have the right to ask us not to use your personal information for direct marketing purposes.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "You also have the right to request a copy of the personal information that we hold about you and to have any inaccuracies rectified.",
+   "polarity": "protective",
+   "label": "Privacy: lets you access or delete your data",
+   "split": "test"
+  },
+  {
+   "text": "Safe Harbor Barnes & Noble has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "You can stop the delivery of commercial email messages you receive from any Meredith brand by using the unsubscribe link in any such email you receive.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "You can remove your name and postal address from lists we sell or rent to third parties for their direct marketing purposes by using the opt-out form here.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "You can opt-out of our use of your online viewing behavior data to serve you interest-based advertising on third-party sites and email newsletters at www.aboutadsinfo/ or by clicking on the Ad Choices link in the footer of our websites and navigating to the consumer opt-out page.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "You can opt out of interest-based advertising from Google by visiting the About Google Ads page or permanently opt out of the DoubleClick cookie by installing the DoubleClick opt out extension.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "How to Correct or Update Your Information: Meredith Corporation provides you with the ability to access and edit certain personally identifying information that you have provided to us through our Services.",
+   "polarity": "protective",
+   "label": "Privacy: lets you access or delete your data",
+   "split": "test"
+  },
+  {
+   "text": "Security, Retention and Storage of Information: We use commercially reasonable procedures to protect the personally-identifying information that we collect.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "Your Choices You can update any contact information you provide to us by using the \"My Account\" feature available on many of our sites or emailing us at privacy@meredith.com.",
+   "polarity": "protective",
+   "label": "Privacy: lets you access or delete your data",
+   "split": "test"
+  },
+  {
+   "text": "We have adopted commercially reasonable procedures to help us secure your information but no data transmissions or storage can be guaranteed to be 100 secure.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "We may also ask for information about your age, gender, hobbies, interests, preferences (such as your favorite foods, purchases or recipes) and the like, but you're free to register for most of our Services without providing this additional information.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "Like most website and mobile application operators, we, or third parties acting on our behalf, use embedded scripts, \"cookies,\" web beacons and other tracking technologies to operate, analyze and improve our Services and tailor content and advertising to user interests.",
+   "polarity": "protective",
+   "label": "Privacy: states it does not collect",
+   "split": "test"
+  },
+  {
+   "text": "We have implemented reasonable administrative, technical, and physical security measures to protect against the unauthorized access, destruction or alteration of your information.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "Chase Paymentech does not have direct relationships with, or collect information directly from, individual consumers other than in their capacity as owners or operators of a commercial enterprise.",
+   "polarity": "protective",
+   "label": "Privacy: states it does not collect",
+   "split": "test"
+  },
+  {
+   "text": "Chase Paymentech understands that such information is sensitive and takes appropriate steps to protect the confidentiality and security of all information collected by Chase Paymentech in accordance with this Privacy Statement.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "Information collected during the course of an inquiry will not be sold or otherwise disclosed to any third party; provided that such information may be shared internally with our affiliated entities for the business purposes set forth above.",
+   "polarity": "protective",
+   "label": "Privacy: states it does not share",
+   "split": "test"
+  },
+  {
+   "text": "You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "Disclosure of Your Information Sci-News.com does not sell, trade or rent your personal information to third parties.",
+   "polarity": "protective",
+   "label": "Privacy: states it does not share",
+   "split": "test"
+  },
+  {
+   "text": "For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our online services.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "HOW WE PROTECT YOUR INFORMATION We maintain procedural, technical and physical safeguards for our online services to help protect against loss, misuse or unauthorized access, disclosure, alteration or destruction of the personal information you provide via our online services.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "YOUR RIGHTS AND CHOICES Communication Preferences and Opt-outs If you have subscribed to one or more of our email newsletters or are receiving them from us and you don't want them anymore, you can unsubscribe.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "Access and Correction In addition to the functionality provided to you via the online services (such as using \"account settings\" for registered users), where legally required we provide online visitors with access to their personal information and the ability to review, update and correct it.",
+   "polarity": "protective",
+   "label": "Privacy: lets you access or delete your data",
+   "split": "test"
+  },
+  {
+   "text": "Data Retention and Deletion We will retain your data for as long as you use the online services and for a reasonable time thereafter.",
+   "polarity": "protective",
+   "label": "Privacy: states a retention period",
+   "split": "test"
+  },
+  {
+   "text": "If you'd like to delete, modify or update the data that you provided via the online services please use the settings on the online services or contact us at privacy@nbcuni.com and we will respond in a reasonable time.",
+   "polarity": "protective",
+   "label": "Privacy: lets you access or delete your data",
+   "split": "test"
+  },
+  {
+   "text": "OPT-IN AND OPT-OUT CHOICES The registration forms and other sections of the Science Website where we collect your information provide you with relevant opt-in and opt-out choices regarding promotional activity and other communications with you.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "E-mail AAAS members may opt in for third-party informational e-mails or opt out of all e-mail communication, with the exception of subscription renewal and association election information.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "Users can also opt in for third-party informational e-mails.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "Users who do not wish to receive e-mail may cancel their online services by following the unsubscribe instructions at the bottom of any e-mail message from AAAS.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  },
+  {
+   "text": "Members can change their personal information or update their account information at any time by linking to http://aaasmember.org and selecting Member Services.",
+   "polarity": "protective",
+   "label": "Privacy: lets you access or delete your data",
+   "split": "test"
+  },
+  {
+   "text": "SECURITY We implement reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration, or disclosure.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "When you place an order online at any of the Science websites, your credit card information is protected through the use of encryption utilizing Secure Socket Layer (SSL) protocol, the industry standard in transferring information to process your orders.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "The SSL encrypts, or translates, your order information into a highly indecipherable code, which is processed immediately.",
+   "polarity": "protective",
+   "label": "Privacy: describes a security measure",
+   "split": "test"
+  },
+  {
+   "text": "Web beacons are not used to access your personally identifiable information on the Science Website; they are a technique we use to compile aggregated statistics about our Website usage.",
+   "polarity": "protective",
+   "label": "Privacy: states it does not collect",
+   "split": "test"
+  },
+  {
+   "text": "What we don't share : We do not provide ad companies or analytics companies with your name, address, email address, phone number, or credit card information.",
+   "polarity": "protective",
+   "label": "Privacy: states it does not share",
+   "split": "test"
+  },
+  {
+   "text": "If at any time you would like us to deactivate your member profile, please write to us at our corporate address or visit your account information section for each site and app.",
+   "polarity": "protective",
+   "label": "Privacy: lets you access or delete your data",
+   "split": "test"
+  },
+  {
+   "text": "If you would like to modify any personal information you previously submitted our sites or apps, visit your account information section for each site or app to which you made the submission.",
+   "polarity": "protective",
+   "label": "Privacy: lets you access or delete your data",
+   "split": "test"
+  },
+  {
+   "text": "As more fully described in this Privacy Policy, you may request that Dictionary.com LLC not disclose your personal information to third parties.",
+   "polarity": "protective",
+   "label": "Privacy: offers a choice about data use",
+   "split": "test"
+  }
+ ]
+}

@@ -24,6 +24,16 @@
     .risk-high { background: #dc3545; }
     .risk-medium { background: #ffc107; color: #000; }
     .risk-low { background: #28a745; }
+    .risk-medium-high { background: #fd7e14; }
+    .risk-unknown { background: #6c757d; }
+    .summary-section { border-left-color: #764ba2; }
+    .controls { background: white; border-radius: 8px; padding: 10px 12px; margin-bottom: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+    .control { margin-bottom: 8px; }
+    .control:last-child { margin-bottom: 0; }
+    .control label { display: block; font-size: 11px; font-weight: 700; color: #2c3e50; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 3px; }
+    .control select { width: 100%; padding: 6px 8px; font-size: 12px; font-family: inherit; color: #333; border: 1px solid #ddd; border-radius: 6px; background: #fafafa; }
+    .control .why { font-size: 11px; color: #666; line-height: 1.4; margin-top: 3px; min-height: 15px; }
+    .summary-title { color: #764ba2; }
     #results { display: none; }
     .count-badge { background: #eee; padding: 2px 8px; border-radius: 10px; font-size: 11px; margin-left: 8px; font-weight: 600; }
     a { color: #667eea; text-decoration: none; word-break: break-all; }
@@ -32,11 +42,32 @@
 </head>
 <body>
   <h3>TermsGuard AI <span id="riskBadge" class="risk-badge" style="display:none;"></span></h3>
+  <div class="controls">
+    <div class="control">
+      <label for="ragSelect">Retrieval</label>
+      <select id="ragSelect"></select>
+      <div class="why" id="ragWhy"></div>
+    </div>
+    <div class="control">
+      <label for="classifierSelect">Verdict</label>
+      <select id="classifierSelect"></select>
+      <div class="why" id="classifierWhy"></div>
+    </div>
+    <div class="control">
+      <label for="generatorSelect">Summary model</label>
+      <select id="generatorSelect"></select>
+      <div class="why" id="generatorWhy"></div>
+    </div>
+  </div>
   <button id="analyzeBtn">Analyze This Page</button>
   <button id="clearHighlightsBtn" style="background: linear-gradient(135deg, #999 0%, #666 100%);">Clear Highlights</button>
   <div id="status"></div>
   
   <div id="results">
+    <div class="section summary-section">
+      <div class="section-title summary-title">Plain-Language Summary</div>
+      <ul id="summaryList"></ul>
+    </div>
     <div class="section ethical-section">
       <div class="section-title ethical-title">Ethical Points <span id="ethicalCount" class="count-badge">0</span></div>
       <ul id="ethicalList"></ul>

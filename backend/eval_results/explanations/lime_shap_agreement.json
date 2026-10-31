@@ -1,0 +1,570 @@
+{
+ "clauses": 25,
+ "mean_overlap": 0.3836,
+ "per_clause": [
+  {
+   "clause": "academia.edu reserves the right , at its sole discretion , to modify the site , services and these terms , at any time and without prior notice .",
+   "lime": [
+    "modify",
+    "discretion",
+    "time",
+    "at",
+    "any"
+   ],
+   "shap": [
+    "modify",
+    "time",
+    "any",
+    "without",
+    "discretion"
+   ],
+   "shared": [
+    "any",
+    "discretion",
+    "modify",
+    "time"
+   ],
+   "overlap": 0.667
+  },
+  {
+   "clause": "by continuing to access or use the site or services after we have posted a modification on the site or have provided you with notice of a modification , you are indicating that you agree to be bound by the modified terms .",
+   "lime": [
+    "agree",
+    "bound",
+    "terms",
+    "to",
+    "be"
+   ],
+   "shap": [
+    "bound",
+    "terms",
+    "agree",
+    "by",
+    "be"
+   ],
+   "shared": [
+    "agree",
+    "be",
+    "bound",
+    "terms"
+   ],
+   "overlap": 0.667
+  },
+  {
+   "clause": "academia.edu reserves the right to suspend or terminate your account if any information provided during the registration process or thereafter proves to be inaccurate , not current or incomplete .",
+   "lime": [
+    "suspend",
+    "terminate",
+    "or",
+    "during",
+    "to"
+   ],
+   "shap": [
+    "terminate",
+    "suspend",
+    "reserves",
+    "your",
+    "the"
+   ],
+   "shared": [
+    "suspend",
+    "terminate"
+   ],
+   "overlap": 0.25
+  },
+  {
+   "clause": "we reserve the right to modify or terminate free trials at any time , without notice and in our sole discretion .",
+   "lime": [
+    "terminate",
+    "modify",
+    "right",
+    "or",
+    "any"
+   ],
+   "shap": [
+    "time",
+    "terminate",
+    "modify",
+    "without",
+    "notice"
+   ],
+   "shared": [
+    "modify",
+    "terminate"
+   ],
+   "overlap": 0.25
+  },
+  {
+   "clause": "it is academia.edu 's policy to terminate , in appropriate circumstances , members or other account holders who repeatedly infringe or are believed to be repeatedly infringing the rights of copyright holders .",
+   "lime": [
+    "terminate",
+    "to",
+    "in",
+    "circumstances",
+    "holders"
+   ],
+   "shap": [
+    "terminate",
+    "circumstances",
+    "or",
+    "to",
+    "members"
+   ],
+   "shared": [
+    "circumstances",
+    "terminate",
+    "to"
+   ],
+   "overlap": 0.429
+  },
+  {
+   "clause": "academia.edu reserves the right , at its sole discretion , to discontinue or terminate the site and services and to terminate these terms , at any time and without prior notice .",
+   "lime": [
+    "at",
+    "or",
+    "notice",
+    "discretion",
+    "time"
+   ],
+   "shap": [
+    "discontinue",
+    "terminate",
+    "discretion",
+    "or",
+    "terminate"
+   ],
+   "shared": [
+    "discretion",
+    "or"
+   ],
+   "overlap": 0.286
+  },
+  {
+   "clause": "if you breach any of these terms , academia.edu will have the right to suspend or disable your account or terminate these terms , at its sole discretion and without prior notice to you .",
+   "lime": [
+    "suspend",
+    "terminate",
+    "or",
+    "breach",
+    "account"
+   ],
+   "shap": [
+    "terminate",
+    "suspend",
+    "or",
+    "these",
+    "or"
+   ],
+   "shared": [
+    "or",
+    "suspend",
+    "terminate"
+   ],
+   "overlap": 0.5
+  },
+  {
+   "clause": "academia.edu reserves the right to revoke your access to and use of the site , services and collective content at any time , with or without cause .",
+   "lime": [
+    "revoke",
+    "to",
+    "time",
+    "services",
+    "or"
+   ],
+   "shap": [
+    "time",
+    "cause",
+    "without",
+    "revoke",
+    "any"
+   ],
+   "shared": [
+    "revoke",
+    "time"
+   ],
+   "overlap": 0.25
+  },
+  {
+   "clause": "these terms and any action related thereto will be governed by the laws of the state of california without regard to its conflict of laws provisions .",
+   "lime": [
+    "laws",
+    "conflict",
+    "governed",
+    "without",
+    "laws"
+   ],
+   "shap": [
+    "laws",
+    "laws",
+    "conflict",
+    "california",
+    "state"
+   ],
+   "shared": [
+    "conflict",
+    "laws"
+   ],
+   "overlap": 0.333
+  },
+  {
+   "clause": "amazon reserves the right to refuse service , terminate accounts , terminate your rights to use amazon services , remove or edit content , or cancel orders in its sole discretion .",
+   "lime": [
+    "terminate",
+    "refuse",
+    "to",
+    "discretion",
+    "right"
+   ],
+   "shap": [
+    "terminate",
+    "terminate",
+    "reserves",
+    "remove",
+    "accounts"
+   ],
+   "shared": [
+    "terminate"
+   ],
+   "overlap": 0.125
+  },
+  {
+   "clause": "amazon takes no responsibility and assumes no liability for any content posted by you or any third party .",
+   "lime": [
+    "liability",
+    "for",
+    "any",
+    "no",
+    "third"
+   ],
+   "shap": [
+    "liability",
+    "for",
+    "any",
+    "posted",
+    "content"
+   ],
+   "shared": [
+    "any",
+    "for",
+    "liability"
+   ],
+   "overlap": 0.429
+  },
+  {
+   "clause": "by using any amazon service , you agree that the federal arbitration act , applicable federal law , and the laws of the state of washington , without regard to principles of conflict of laws , will govern these conditions of use and any dispute of any sort that might arise between you and amazon .",
+   "lime": [
+    "conflict",
+    "laws",
+    "by",
+    "conditions",
+    "act"
+   ],
+   "shap": [
+    "conflict",
+    "laws",
+    "laws",
+    "of",
+    "of"
+   ],
+   "shared": [
+    "conflict",
+    "laws"
+   ],
+   "overlap": 0.333
+  },
+  {
+   "clause": "we reserve the right to make changes to our site , policies , service terms , and these conditions of use at any time .",
+   "lime": [
+    "changes",
+    "any",
+    "time",
+    "right",
+    "make"
+   ],
+   "shap": [
+    "changes",
+    "make",
+    "time",
+    "reserve",
+    "terms"
+   ],
+   "shared": [
+    "changes",
+    "make",
+    "time"
+   ],
+   "overlap": 0.429
+  },
+  {
+   "clause": "we may change our service plans and the price of our service from time to time ; however , any price changes or changes to our service plans will apply to you no earlier than 30 days following notice to you .",
+   "lime": [
+    "change",
+    "may",
+    "of",
+    "we",
+    "apply"
+   ],
+   "shap": [
+    "change",
+    "may",
+    "time",
+    "time",
+    "to"
+   ],
+   "shared": [
+    "change",
+    "may"
+   ],
+   "overlap": 0.286
+  },
+  {
+   "clause": "we may terminate or restrict your use of our service if you violate these terms of use or are engaged in illegal or fraudulent use of the service .",
+   "lime": [
+    "terminate",
+    "may",
+    "violate",
+    "or",
+    "restrict"
+   ],
+   "shap": [
+    "terminate",
+    "may",
+    "or",
+    "we",
+    "your"
+   ],
+   "shared": [
+    "may",
+    "or",
+    "terminate"
+   ],
+   "overlap": 0.429
+  },
+  {
+   "clause": "these terms of use shall be governed by and construed in accordance with the laws of the netherlands .",
+   "lime": [
+    "laws",
+    "governed",
+    "of",
+    "by",
+    "the"
+   ],
+   "shap": [
+    "laws",
+    "governed",
+    "of",
+    "be",
+    "the"
+   ],
+   "shared": [
+    "governed",
+    "laws",
+    "of",
+    "the"
+   ],
+   "overlap": 0.667
+  },
+  {
+   "clause": "netflix may , from time to time , change these terms of use .",
+   "lime": [
+    "to",
+    "change",
+    "time",
+    "may",
+    "of"
+   ],
+   "shap": [
+    "change",
+    "time",
+    "to",
+    "terms",
+    "time"
+   ],
+   "shared": [
+    "change",
+    "time",
+    "to"
+   ],
+   "overlap": 0.5
+  },
+  {
+   "clause": "while we 're not required to do so , we may access , review , screen , and delete your content at any time and for any reason , including if we think your content violates these terms .",
+   "lime": [
+    "any",
+    "may",
+    "time",
+    "and",
+    "for"
+   ],
+   "shap": [
+    "time",
+    "delete",
+    "any",
+    "at",
+    "reason"
+   ],
+   "shared": [
+    "any",
+    "time"
+   ],
+   "overlap": 0.25
+  },
+  {
+   "clause": "and if snap group limited becomes aware that one of its users has repeatedly infringed copyrights , we will take reasonable steps within our power to terminate the user 's account .",
+   "lime": [
+    "terminate",
+    "the",
+    "s",
+    "user",
+    "to"
+   ],
+   "shap": [
+    "terminate",
+    "the",
+    "user",
+    "account",
+    "power"
+   ],
+   "shared": [
+    "terminate",
+    "the",
+    "user"
+   ],
+   "overlap": 0.429
+  },
+  {
+   "clause": "your content in memories might become unavailable for any number of reasons , including things like an operational glitch or a decision on our end to terminate your account .",
+   "lime": [
+    "your",
+    "terminate",
+    "to",
+    "account",
+    "including"
+   ],
+   "shap": [
+    "terminate",
+    "your",
+    "account",
+    "our",
+    "in"
+   ],
+   "shared": [
+    "account",
+    "terminate",
+    "your"
+   ],
+   "overlap": 0.429
+  },
+  {
+   "clause": "we reserve the right to set storage limits for memories , and we may change these limits from time to time in our sole discretion .",
+   "lime": [
+    "limits",
+    "limits",
+    "storage",
+    "to",
+    "sole"
+   ],
+   "shap": [
+    "change",
+    "time",
+    "may",
+    "to",
+    "time"
+   ],
+   "shared": [
+    "to"
+   ],
+   "overlap": 0.143
+  },
+  {
+   "clause": "that means we may add or remove features , products , or functionalities , and we may also suspend or stop the services altogether .",
+   "lime": [
+    "suspend",
+    "the",
+    "stop",
+    "or",
+    "or"
+   ],
+   "shap": [
+    "remove",
+    "suspend",
+    "or",
+    "may",
+    "or"
+   ],
+   "shared": [
+    "or",
+    "suspend"
+   ],
+   "overlap": 0.333
+  },
+  {
+   "clause": "snap group limited may also terminate these terms with you at any time , for any reason .",
+   "lime": [
+    "terminate",
+    "also",
+    "may",
+    "any",
+    "reason"
+   ],
+   "shap": [
+    "terminate",
+    "may",
+    "any",
+    "terms",
+    "these"
+   ],
+   "shared": [
+    "any",
+    "may",
+    "terminate"
+   ],
+   "overlap": 0.429
+  },
+  {
+   "clause": "our right to terminate these terms means that we may stop providing you with any services , or impose new or additional limits on your ability to use the services .",
+   "lime": [
+    "terminate",
+    "to",
+    "these",
+    "terms",
+    "may"
+   ],
+   "shap": [
+    "terminate",
+    "stop",
+    "may",
+    "we",
+    "or"
+   ],
+   "shared": [
+    "may",
+    "terminate"
+   ],
+   "overlap": 0.25
+  },
+  {
+   "clause": "for example , we may deactivate your account due to prolonged inactivity , and we may reclaim your username at any time for any reason .",
+   "lime": [
+    "for",
+    "reason",
+    "deactivate",
+    "time",
+    "any"
+   ],
+   "shap": [
+    "time",
+    "reason",
+    "any",
+    "any",
+    "may"
+   ],
+   "shared": [
+    "any",
+    "reason",
+    "time"
+   ],
+   "overlap": 0.5
+  }
+ ]
+}

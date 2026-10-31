@@ -1,0 +1,8 @@
+{
+  "embedding_model_weights_mb": 86.6,
+  "flan_t5_weights_mb": 944.4,
+  "faiss_indexes_mb": 9.298,
+  "everything_else_mb": 162.6,
+  "total_peak_process_rss_mb": 1203.0,
+  "note": "component rows are in-memory weight/index sizes; 'everything else' is Python, PyTorch/Flask runtime, tokenizers and inference activations"
+}

@@ -1,0 +1,174 @@
+{
+  "dataset": "LexGLUE UNFAIR-ToS test split",
+  "sentences": 1607,
+  "runs": [
+    {
+      "rag": "nearest",
+      "classifier": "similarity",
+      "accuracy": 0.883,
+      "unclear": 0,
+      "per_class": {
+        "ethical": {
+          "precision": 0.9636,
+          "recall": 0.9031,
+          "f1": 0.9324
+        },
+        "non_ethical": {
+          "precision": 0.4695,
+          "recall": 0.7151,
+          "f1": 0.5668
+        }
+      },
+      "macro_f1": 0.7496,
+      "seconds_per_1000_sentences": 1.9,
+      "privacy_f1": 0.7736
+    },
+    {
+      "rag": "vote",
+      "classifier": "similarity",
+      "accuracy": 0.9284,
+      "unclear": 0,
+      "per_class": {
+        "ethical": {
+          "precision": 0.9603,
+          "recall": 0.9596,
+          "f1": 0.9599
+        },
+        "non_ethical": {
+          "precision": 0.6647,
+          "recall": 0.6686,
+          "f1": 0.6667
+        }
+      },
+      "macro_f1": 0.8133,
+      "seconds_per_1000_sentences": 1.9,
+      "privacy_f1": 0.8259
+    },
+    {
+      "rag": "hybrid",
+      "classifier": "similarity",
+      "accuracy": 0.944,
+      "unclear": 0,
+      "per_class": {
+        "ethical": {
+          "precision": 0.9667,
+          "recall": 0.9707,
+          "f1": 0.9687
+        },
+        "non_ethical": {
+          "precision": 0.747,
+          "recall": 0.7209,
+          "f1": 0.7337
+        }
+      },
+      "macro_f1": 0.8512,
+      "seconds_per_1000_sentences": 7.0,
+      "privacy_f1": 0.8358
+    },
+    {
+      "rag": "gated",
+      "classifier": "similarity",
+      "accuracy": 0.7019,
+      "unclear": 438,
+      "per_class": {
+        "ethical": {
+          "precision": 0.979,
+          "recall": 0.747,
+          "f1": 0.8474
+        },
+        "non_ethical": {
+          "precision": 0.7568,
+          "recall": 0.3256,
+          "f1": 0.4553
+        }
+      },
+      "macro_f1": 0.6513,
+      "seconds_per_1000_sentences": 1.9,
+      "privacy_f1": 0.7086
+    },
+    {
+      "rag": "rerank",
+      "classifier": "similarity",
+      "accuracy": 0.9297,
+      "unclear": 0,
+      "per_class": {
+        "ethical": {
+          "precision": 0.9728,
+          "recall": 0.9477,
+          "f1": 0.9601
+        },
+        "non_ethical": {
+          "precision": 0.6411,
+          "recall": 0.7791,
+          "f1": 0.7034
+        }
+      },
+      "macro_f1": 0.8317,
+      "seconds_per_1000_sentences": 116.2,
+      "privacy_f1": 0.8095
+    },
+    {
+      "rag": "hybrid",
+      "classifier": "legalbert",
+      "accuracy": 0.9602,
+      "unclear": 0,
+      "per_class": {
+        "ethical": {
+          "precision": 0.9744,
+          "recall": 0.9812,
+          "f1": 0.9778
+        },
+        "non_ethical": {
+          "precision": 0.8333,
+          "recall": 0.7849,
+          "f1": 0.8084
+        }
+      },
+      "macro_f1": 0.8931,
+      "seconds_per_1000_sentences": 18.6,
+      "privacy_f1": 0.0
+    },
+    {
+      "rag": "hybrid",
+      "classifier": "legalbert-knn",
+      "accuracy": 0.9602,
+      "unclear": 0,
+      "per_class": {
+        "ethical": {
+          "precision": 0.9737,
+          "recall": 0.9819,
+          "f1": 0.9778
+        },
+        "non_ethical": {
+          "precision": 0.8375,
+          "recall": 0.7791,
+          "f1": 0.8072
+        }
+      },
+      "macro_f1": 0.8925,
+      "seconds_per_1000_sentences": 69.0,
+      "privacy_f1": 0.0
+    },
+    {
+      "rag": "hybrid",
+      "classifier": "legalbert-privacy",
+      "accuracy": 0.9403,
+      "unclear": 0,
+      "per_class": {
+        "ethical": {
+          "precision": 0.9731,
+          "recall": 0.9596,
+          "f1": 0.9663
+        },
+        "non_ethical": {
+          "precision": 0.6979,
+          "recall": 0.7791,
+          "f1": 0.7363
+        }
+      },
+      "macro_f1": 0.8513,
+      "seconds_per_1000_sentences": 28.3,
+      "privacy_f1": 0.8208
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+% Requires: \usepackage{booktabs}  (and \usepackage{float} if you want [H] placement)
+\begin{table*}[!t]
+\centering
+\caption{Classification performance on the LexGLUE UNFAIR-ToS test split (1,607 expert-annotated sentences).
+A majority-class baseline that always predicts ``fair'' scores 0.893 accuracy.}
+\label{tab:system-comparison}
+\footnotesize
+\begin{tabular}{llrrrrr}
+\toprule
+System & Verdict method & Accuracy & Macro F1 & Unfair P & Unfair R & Unfair F1 \\
+\midrule
+Original project (93 hand-written clauses) & --- & 0.156 & 0.228 & 0.169 & 0.506 & 0.253 \\
+Report's method, 48 hand-written clauses & Clause matching & 0.355 & 0.332 & 0.120 & 0.796 & 0.209 \\
+Nearest clause (Algorithm 1) & Clause matching & 0.921 & 0.806 & 0.613 & 0.709 & 0.658 \\
+5-clause vote & Clause matching & 0.948 & 0.853 & 0.801 & 0.680 & 0.736 \\
+Keyword + meaning (hybrid) & Clause matching & 0.957 & 0.880 & 0.850 & 0.727 & 0.784 \\
+Vote with unclear & Clause matching & 0.739 & 0.673 & 0.862 & 0.326 & 0.473 \\
+Cross-encoder rerank & Clause matching & 0.950 & 0.872 & 0.749 & 0.796 & 0.772 \\
+Legal-BERT small (8 categories) & Legal-BERT & 0.960 & 0.893 & 0.833 & 0.785 & 0.808 \\
+Nearest clause & Legal-BERT base (binary) & 0.966 & 0.910 & 0.846 & 0.831 & \textbf{0.839} \\
+\bottomrule
+\end{tabular}
+\end{table*}
+
+\begin{table}[!t]
+\centering
+\caption{Retrieval variants using clause matching only (no model training).
+Timings are wall-clock on an Apple silicon CPU and are indicative.}
+\label{tab:retrieval-variants}
+\footnotesize
+\begin{tabular}{lrrrrr}
+\toprule
+Variant & Unfair P & Unfair R & Unfair F1 & Abst. & s/1k \\
+\midrule
+Nearest clause (Algorithm 1) & 0.613 & 0.709 & 0.658 & 0 & 3.0 \\
+5-clause vote & 0.801 & 0.680 & 0.736 & 0 & 3.1 \\
+Keyword + meaning (hybrid) & 0.850 & 0.727 & 0.784 & 0 & 10.7 \\
+Vote with unclear & 0.862 & 0.326 & 0.473 & 386 & 3.2 \\
+Cross-encoder rerank & 0.749 & 0.796 & 0.772 & 0 & 222.5 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[!t]
+\centering
+\caption{Recall by unfair-clause category. Category counts are small, so these values carry wide confidence intervals.}
+\label{tab:category-recall}
+\footnotesize
+\begin{tabular}{lrrr}
+\toprule
+Category & Sentences & Hybrid & Legal-BERT \\
+\midrule
+Unilateral change & 38 & 0.76 & 0.74 \\
+Unilateral termination & 38 & 0.74 & 0.87 \\
+Limitation of liability & 38 & 0.68 & 0.82 \\
+Contract by using & 23 & 0.52 & 0.78 \\
+Jurisdiction & 16 & 0.94 & 1.00 \\
+Content removal & 13 & 0.77 & 0.85 \\
+Choice of law & 13 & 1.00 & 1.00 \\
+Arbitration & 7 & 0.57 & 1.00 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[!t]
+\centering
+\caption{Combining Legal-BERT with keyword fusion. Neither union nor intersection improves on Legal-BERT alone,
+and sweeping the decision threshold from 0.2 to 0.7 leaves 0.50 optimal.}
+\label{tab:combination}
+\footnotesize
+\begin{tabular}{lrrr}
+\toprule
+Strategy & Unfair P & Unfair R & Unfair F1 \\
+\midrule
+Legal-BERT alone & 0.846 & 0.831 & \textbf{0.839} \\
+Keyword fusion alone & 0.850 & 0.727 & 0.784 \\
+Either flags (OR) & 0.782 & 0.878 & 0.827 \\
+Both flag (AND) & 0.951 & 0.680 & 0.793 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[!t]
+\centering
+\caption{System resources and runtime, before and after.}
+\label{tab:resources}
+\footnotesize
+\begin{tabular}{lll}
+\toprule
+Measure & Original & Current \\
+\midrule
+Reference clauses & 93 hand-written & 5,394 annotated \\
+Embedding model & MiniLM-L6-v2 (22.7M) & unchanged \\
+Summary model & flan-t5-base (247.6M) & selectable \\
+Peak memory & 1.07\,GB & 1.17\,GB \\
+FAISS index & 0.08\,MB & 9.3\,MB \\
+Backend startup & $\sim$13\,s & $\sim$40\,s \\
+Analysis per page & 14.0\,s & 3.9\,s \\
+Retrieval recall@3 & 73.6\% & 84.3\% \\
+Validation accuracy & not measured & 94.6\% \\
+Automated checks & 1 & 7 \\
+\bottomrule
+\end{tabular}
+\end{table}

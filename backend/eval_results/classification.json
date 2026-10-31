@@ -1,0 +1,49 @@
+{
+  "dataset": "LexGLUE UNFAIR-ToS test split",
+  "sentences": 1607,
+  "gold_counts": {
+    "ethical": 1435,
+    "non_ethical": 172
+  },
+  "accuracy": 0.921,
+  "majority_class_baseline_accuracy": 0.893,
+  "per_class": {
+    "ethical": {
+      "precision": 0.9645,
+      "recall": 0.9463,
+      "f1": 0.9553
+    },
+    "non_ethical": {
+      "precision": 0.6131,
+      "recall": 0.7093,
+      "f1": 0.6577
+    }
+  },
+  "macro_f1": 0.8065,
+  "reference_corpus": {
+    "source": "UNFAIR-ToS train split",
+    "ethical": 4775,
+    "non_ethical": 619
+  },
+  "retrieval_recall_at_3": {
+    "unfair_sentences": 172,
+    "hits": 145,
+    "recall": 0.843
+  },
+  "confidence_distribution_percent": {
+    "ethical": {
+      "0.90 - 1.00": 7.2,
+      "0.80 - 0.89": 13.4,
+      "0.70 - 0.79": 20.7,
+      "0.60 - 0.69": 25.4,
+      "Below 0.60": 33.2
+    },
+    "non_ethical": {
+      "0.90 - 1.00": 2.0,
+      "0.80 - 0.89": 12.6,
+      "0.70 - 0.79": 24.6,
+      "0.60 - 0.69": 32.2,
+      "Below 0.60": 28.6
+    }
+  }
+}
