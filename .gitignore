@@ -26,3 +26,22 @@ Thumbs.db
 # Environment Variables
 .env
 .env.local
+
+# Academic submission materials (not part of the codebase)
+*.docx
+*.zip
+*Cover Letter*.pdf
+*Cover_Sheet*.pdf
+FAI*.pdf
+TermsGuard AI*.pdf
+Sequence Diagram.png
+
+# Trained models (regenerate with backend/train_legalbert.py)
+backend/models/
+
+# OPP-115 corpus (download + extract with backend/build_privacy_corpus.py)
+backend/data/OPP-115.zip
+backend/data/OPP-115/
+
+# Derived cache (rebuilt on first use of a Legal-BERT verdict)
+backend/data/legalbert_vectors.npz
